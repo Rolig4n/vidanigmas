@@ -1,0 +1,13 @@
+[
+    {
+        "pergunta": "Qual é a capital do Brasil?",
+        "resposta_correta": "Brasília",
+        "respostas_incorretas": ["Rio de Janeiro", "São Paulo", "Salvador"]
+    },
+    {
+        "pergunta": "Quem pintou Mona Lisa?",
+        "resposta_correta": "Leonardo da Vinci",
+        "respostas_incorretas": ["Pablo Picasso", "Vincent van Gogh", "Michelangelo"]
+    }
+]
+  
