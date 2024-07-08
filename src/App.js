@@ -3,6 +3,7 @@ import './App.css';
 import Pergunta from './pergunta';
 import Resultado from './resultado';
 import data from './perguntas.json';
+import backgroundImage from './background.jpg';
 
 function App() {
   const [perguntaIndex, setPerguntaIndex] = useState(0);
@@ -25,7 +26,7 @@ function App() {
   };
 
   return (
-    <div className="App">
+    <div className="App" style={{ backgroundImage: `url(${backgroundImage})` }}>
       <header className="App-header">
         {mostrarResultado ? (
           <Resultado respostaCorreta={respostaCorreta} proximaPergunta={proximaPergunta} />

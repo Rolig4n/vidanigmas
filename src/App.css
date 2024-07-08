@@ -1,9 +1,17 @@
+body, html {
+  overflow: hidden;
+  height: 100%; /* Ensure full height of viewport is covered */
+}
+
 .App {
   display: flex;
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-color: #6a0dad; /* Roxo Real */
+  background-image: "./src/vidanigmas_capa.jpg";
+  background-size: cover; /* Cover the entire container */
+  background-position: top center; /* Center the image */
+  background-color: #df3f3d; /* Roxo Real */
   padding: 20px;
   box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
 }
@@ -14,14 +22,14 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #df3f3ddb;
   min-height: 50vh;
   padding: 10px 20px;
   display: flex;
   flex-direction: column;
   align-items: center;
-  border: 2px solid #6a0dad;
-  border-radius: 5px;
+  /* border: 2px solid #df3f3d; */
+  border-radius: 50px;
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
@@ -45,13 +53,14 @@
   font-size: 16px;
   font-weight: bold;
   color: #ffffff;
-  background-color: transparent;
-  border: 2px solid #6a0dad;
+  background-color: #df3f3d;
+  border: 2px solid #df3f3d;
+  box-shadow: #c92624;
   border-radius: 5px;
   cursor: pointer;
   transition: background-color 0.3s, color 0.3s;
 }
 
 .opcoes .opcao:hover {
-  background-color: #6a0dad; /* Purple background on hover */
+  background-color: #c92624; /* Purple background on hover */
 }
