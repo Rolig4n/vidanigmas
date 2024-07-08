@@ -9,9 +9,9 @@ const Pergunta = ({ pergunta, handleResposta }) => {
       <h3>{textoPergunta}</h3>
       <div className='opcoes'>
         {opcoesResposta.map((opcao, index) => (
-          <p><button className='opcao' key={index} onClick={() => handleResposta(opcao)}>
+          <button className='opcao' key={index} onClick={() => handleResposta(opcao)}>
             {opcao}
-          </button></p>
+          </button>
         ))}
       </div>
     </div>
