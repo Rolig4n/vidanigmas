@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import './App.css';
-import Pergunta from './Pergunta';
+import Pergunta from './pergunta';
+import Resultado from './resultado';
 import data from './perguntas.json';
 
 function App() {
