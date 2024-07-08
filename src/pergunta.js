@@ -5,13 +5,15 @@ const Pergunta = ({ pergunta, handleResposta }) => {
   const opcoesResposta = [resposta_correta, ...respostas_incorretas].sort(() => Math.random() - 0.5);
 
   return (
-    <div>
+    <div >
       <h3>{textoPergunta}</h3>
-      {opcoesResposta.map((opcao, index) => (
-        <button key={index} onClick={() => handleResposta(opcao)}>
-          {opcao}
-        </button>
-      ))}
+      <div className='opcoes'>
+        {opcoesResposta.map((opcao, index) => (
+          <p><button className='opcao' key={index} onClick={() => handleResposta(opcao)}>
+            {opcao}
+          </button></p>
+        ))}
+      </div>
     </div>
   );
 };

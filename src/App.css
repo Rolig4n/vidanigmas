@@ -1,13 +1,12 @@
 .App {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    background-color: #6a0dad; /* Roxo Real */
-    border-radius: 20px;
-    padding: 20px;
-    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
-  }
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #6a0dad; /* Roxo Real */
+  padding: 20px;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
+}
   
 .App-logo {
   height: 40vmin;
@@ -16,10 +15,13 @@
 
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
+  min-height: 50vh;
+  padding: 10px 20px;
   display: flex;
   flex-direction: column;
   align-items: center;
+  border: 2px solid #6a0dad;
+  border-radius: 5px;
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
@@ -27,4 +29,29 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.opcoes, h3 {
+  display: flex;
+  justify-content: center;
+  /* margin: 1px; */
+  gap: 10px; /* Adjust the gap between buttons */
+}
+
+.opcoes .opcao {
+  max-width: 100px;
+  width: 100%;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #ffffff;
+  background-color: transparent;
+  border: 2px solid #6a0dad;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.opcoes .opcao:hover {
+  background-color: #6a0dad; /* Purple background on hover */
 }
