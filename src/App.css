@@ -8,12 +8,10 @@ body, html {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-image: "./src/vidanigmas_capa.jpg";
   background-size: cover; /* Cover the entire container */
   background-position: top center; /* Center the image */
   background-color: #df3f3d; /* Roxo Real */
   padding: 20px;
-  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
 }
   
 .App-logo {
@@ -24,42 +22,31 @@ body, html {
 .App-header {
   background-color: #df3f3ddb;
   min-height: 50vh;
+  min-width: 50vh;
   padding: 10px 20px;
   display: flex;
   flex-direction: column;
   align-items: center;
-  /* border: 2px solid #df3f3d; */
-  border-radius: 50px;
+  border-radius: 40px;
+  background-color: #df3f3d;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  font-weight: bold;
+  color: #ffffff;
+  cursor: pointer;
+  box-shadow: 0px 2px 20px rgba(24, 24, 24, 1);
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.App-header:hover {
+  background-color: #c92624; /* Purple background on hover */
 }
 
 .App-link {
   color: #61dafb;
 }
 
-.opcoes, h1, h2, h3 {
+h1, h2, h3 {
   display: flex;
   justify-content: center;
-  /* margin: 1px; */
-  gap: 10px; /* Adjust the gap between buttons */
-}
-
-.opcoes .opcao {
-  width: 100%;
-  padding: 10px 20px;
-  font-size: 16px;
-  font-weight: bold;
-  color: #ffffff;
-  background-color: #df3f3d;
-  border: 2px solid #df3f3d;
-  box-shadow: #c92624;
-  border-radius: 5px;
-  cursor: pointer;
-  transition: background-color 0.3s, color 0.3s;
-}
-
-.opcoes .opcao:hover {
-  background-color: #c92624; /* Purple background on hover */
 }

@@ -2,11 +2,8 @@ import React from 'react';
 
 const Resultado = ({ respostaCorreta, proximaPergunta }) => {
   return (
-    <div>
-      <h2>{respostaCorreta ? 'Resposta correta!' : 'Resposta incorreta!'}</h2>
-      <div className='opcoes'>
-        <button className='opcao' onClick={proximaPergunta}>Próxima pergunta</button>
-      </div>
+    <div onClick={proximaPergunta}>
+      <h2>{respostaCorreta}</h2>
     </div>
   );
 };

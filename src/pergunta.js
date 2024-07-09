@@ -1,19 +1,11 @@
 import React from 'react';
 
 const Pergunta = ({ pergunta, handleResposta }) => {
-  const { pergunta: textoPergunta, resposta_correta, respostas_incorretas } = pergunta;
-  const opcoesResposta = [resposta_correta, ...respostas_incorretas].sort(() => Math.random() - 0.5);
+  const { pergunta: textoPergunta, resposta_correta } = pergunta;
 
   return (
-    <div >
-      <h3>{textoPergunta}</h3>
-      <div className='opcoes'>
-        {opcoesResposta.map((opcao, index) => (
-          <button className='opcao' key={index} onClick={() => handleResposta(opcao)}>
-            {opcao}
-          </button>
-        ))}
-      </div>
+    <div onClick={() => handleResposta(resposta_correta)}>
+      <h2>{textoPergunta}</h2>
     </div>
   );
 };

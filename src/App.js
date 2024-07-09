@@ -53,16 +53,12 @@ function App() {
 
   const handleResposta = (respostaSelecionada) => {
     const perguntaAtual = perguntas[perguntaIndex];
-    if (respostaSelecionada === perguntaAtual.resposta_correta) {
-      setRespostaCorreta(true);
-    } else {
-      setRespostaCorreta(false);
-    }
+    setRespostaCorreta(respostaSelecionada);
     setMostrarResultado(true);
   };
 
   return (
-    <div className="App" style={{ backgroundImage: `url(${backgroundImage})` }}>
+    <body className="App" style={{ backgroundImage: `url(${backgroundImage})` }}>
       <header className="App-header">
         {
         jogoEncerrado ? (<FimDeJogo onReiniciar={reiniciarJogo} />) : mostrarResultado ? (
@@ -72,7 +68,7 @@ function App() {
         )
         }
       </header>
-    </div>
+    </body>
   );
 }
 
