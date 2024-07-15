@@ -1,6 +1,18 @@
-body, html {
+html, body, #root {
   overflow: hidden;
   height: 100%; /* Ensure full height of viewport is covered */
+  width: 100%;
+}
+
+body {
+  font-family: system-ui;
+  margin: 0;
+}
+
+*,
+*:after,
+*:before {
+  box-sizing: border-box;
 }
 
 .App {
@@ -46,7 +58,8 @@ body, html {
   color: #61dafb;
 }
 
-h1, h2, h3 {
+h2{
   display: flex;
   justify-content: center;
+  margin-left: 10px;
 }

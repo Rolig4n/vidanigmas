@@ -1,13 +1,91 @@
 [
     {
         "pergunta": "Qual é a capital do Brasil?",
-        "resposta_correta": "Brasília",
-        "respostas_incorretas": ["Rio de Janeiro", "São Paulo", "Salvador"]
+        "resposta_correta": "Brasília"
     },
     {
         "pergunta": "Quem pintou Mona Lisa?",
-        "resposta_correta": "Leonardo da Vinci",
-        "respostas_incorretas": ["Pablo Picasso", "Vincent van Gogh", "Michelangelo"]
+        "resposta_correta": "Leonardo da Vinci"
+    },
+    {
+        "pergunta": "Qual é a capital da França?",
+        "resposta_correta": "Paris"
+    },
+    {
+        "pergunta": "Quem escreveu a peça 'Romeu e Julieta'?",
+        "resposta_correta": "William Shakespeare"
+    },
+    {
+        "pergunta": "Quantos continentes existem?",
+        "resposta_correta": "Sete"
+    },
+    {
+        "pergunta": "Quem foi o primeiro homem a pisar na Lua?",
+        "resposta_correta": "Neil Armstrong"
+    },
+    {
+        "pergunta": "Qual é o maior planeta do Sistema Solar?",
+        "resposta_correta": "Júpiter"
+    },
+    {
+        "pergunta": "Quem foi o primeiro presidente dos Estados Unidos?",
+        "resposta_correta": "George Washington"
+    },
+    {
+        "pergunta": "Qual é o rio mais longo do mundo?",
+        "resposta_correta": "Rio Amazonas"
+    },
+    {
+        "pergunta": "Quem escreveu 'A Origem das Espécies'?",
+        "resposta_correta": "Charles Darwin"
+    },
+    {
+        "pergunta": "Qual é o maior animal terrestre?",
+        "resposta_correta": "Elefante africano"
+    },
+    {
+        "pergunta": "Quem escreveu '1984'?",
+        "resposta_correta": "George Orwell"
+    },
+    {
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "resposta_correta": "Oceano Pacífico"
+    },
+    {
+        "pergunta": "Quem foi o primeiro imperador romano?",
+        "resposta_correta": "Augusto"
+    },
+    {
+        "pergunta": "Qual é a montanha mais alta do mundo?",
+        "resposta_correta": "Monte Everest"
+    },
+    {
+        "pergunta": "Quem pintou 'Guernica'?",
+        "resposta_correta": "Pablo Picasso"
+    },
+    {
+        "pergunta": "Em que país nasceu Albert Einstein?",
+        "resposta_correta": "Alemanha"
+    },
+    {
+        "pergunta": "Qual é o elemento químico mais abundante na crosta terrestre?",
+        "resposta_correta": "Oxigênio"
+    },
+    {
+        "pergunta": "Quem foi o autor de 'Dom Quixote'?",
+        "resposta_correta": "Miguel de Cervantes"
+    },
+    {
+        "pergunta": "Qual é o maior deserto do mundo?",
+        "resposta_correta": "Deserto do Saara"
+    },
+    {
+        "pergunta": "Quem foi o fundador do Facebook?",
+        "resposta_correta": "Mark Zuckerberg"
+    },
+    {
+        "pergunta": "Qual é a obra mais conhecida de Vincent van Gogh?",
+        "resposta_correta": "A Noite Estrelada"
     }
 ]
   

@@ -18,8 +18,10 @@ function App() {
   const embaralharPerguntas = (perguntas) => {
     for (let i = perguntas.length - 1; i > 0; i--) {
       const j = Math.floor(Math.random() * (i + 1));
-      [perguntas[i], perguntas[j]] = [perguntas[j], perguntas[i]];
-    }
+      const temp = perguntas[i];
+      perguntas[i] = perguntas[j];
+      perguntas[j] = temp;
+  }
     return perguntas;
   };
 
@@ -64,7 +66,7 @@ function App() {
         jogoEncerrado ? (<FimDeJogo onReiniciar={reiniciarJogo} />) : mostrarResultado ? (
           <Resultado respostaCorreta={respostaCorreta} proximaPergunta={proximaPergunta} />
         ) : (
-          <Pergunta pergunta={data[perguntaIndex]} handleResposta={handleResposta} />
+          <Pergunta pergunta={perguntas[perguntaIndex]} handleResposta={handleResposta} />
         )
         }
       </header>
