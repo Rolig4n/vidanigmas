@@ -30,8 +30,12 @@
   touch-action: none;
 }
 
+.marijoke{
+  background-color: #df943d;
+}
+
 .deck > div {
-  background-color: white;
+  background-color: #df3f3d;
   background-size: auto 85%;
   background-repeat: no-repeat;
   background-position: center center;
