@@ -2,10 +2,9 @@ import React, { useState } from 'react'
 import { useSprings, animated, to as interpolate } from '@react-spring/web'
 import { useDrag } from 'react-use-gesture'
 import Pergunta from './pergunta'
-
 import styles from './styles.module.css'
-import data from '../perguntas.json';
-import backgroundImage from '../background.jpg';
+import data from './perguntas.json'
+import backgroundImage from './asset/background.jpg'
 
 const cards = data
 // These two are just helpers, they curate spring data, values that are later being interpolated into css
@@ -27,6 +26,7 @@ function Deck() {
     ...to(i),
     from: from(i),
   })) // Create a bunch of springs using the helpers above
+  const [mostrarResultado, setMostrarResultado] = useState(false)
   // Create a gesture, we're interested in down-state, delta (current-pos - click-pos), direction and velocity
   const bind = useDrag(({ args: [index], down, movement: [mx], direction: [xDir], velocity }) => {
     const trigger = velocity > 0.2 // If you flick hard enough it should trigger the card to fly out
@@ -34,6 +34,7 @@ function Deck() {
     if (!down && trigger) gone.add(index) // If button/finger's up and trigger velocity is reached, we flag the card ready to fly out
     api.start(i => {
       if (index !== i) return // We're only interested in changing spring-data for the current spring
+      setMostrarResultado(true)
       const isGone = gone.has(index)
       const x = isGone ? (200 + window.innerWidth) * dir : down ? mx : 0 // When a card is gone it flys out left or right, otherwise goes back to zero
       const rot = mx / 100 + (isGone ? dir * 10 * velocity : 0) // How much the card tilts, flicking it harder makes it rotate faster
@@ -52,18 +53,17 @@ function Deck() {
         api.start(i => to(i))
       }, 600)
   })
+  const handleResposta = () => {
+    setMostrarResultado(false);
+  }
   // Now we're just mapping the animated values to our view, that's it. Btw, this component only renders once. :-)
   return (
     <body className="App" style={{ backgroundImage: `url(${backgroundImage})` }}>
       {props.map(({ x, y, rot, scale }, i) => (
-        <animated.div className={styles.deck} key={i} style={{ x, y }}>
+        <animated.div className={styles.deck} key={i} style={{ x, y }} onClick={() => handleResposta()}>
           {/* This is the card itself, we're binding our gesture to it (and inject its index so we know which is which) */}
-          <animated.div
-            {...bind(i)}
-            style={{
-              transform: interpolate([rot, scale], trans),
-            }}>
-          <Pergunta pergunta={cards[i]} />
+          <animated.div {...bind(i)} style={{transform: interpolate([rot, scale], trans)}}>
+            <Pergunta pergunta={cards[i]} mostrarResultado={mostrarResultado}/>
           </animated.div>
         </animated.div>
       ))}

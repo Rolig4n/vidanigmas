@@ -1,11 +1,12 @@
-import React from 'react';
+import React from 'react'
 
-const Pergunta = ({ pergunta, handleResposta }) => {
+const Pergunta = ({ pergunta, mostrarResultado }) => {
   const { pergunta: textoPergunta, resposta_correta } = pergunta;
 
   return (
-    <div onClick={() => handleResposta(resposta_correta)}>
+    <div>
       <h2>{textoPergunta}</h2>
+      <h2>{mostrarResultado ? resposta_correta : ''}</h2>
     </div>
   );
 };
