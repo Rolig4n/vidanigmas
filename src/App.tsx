@@ -67,6 +67,10 @@ function Deck() {
           </animated.div>
         </animated.div>
       ))}
+      <script src="fitty.min.js"></script>
+      <script>
+        fitty('h2');
+      </script>
     </body>
   )
 }

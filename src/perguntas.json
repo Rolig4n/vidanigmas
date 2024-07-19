@@ -13,6 +13,42 @@
         "pergunta": "Um caipira chega a casa de um amigo que ta vendo TV e pergunta \"Eai, firme?\" o outro reponde \"Não, futibor\"",
         "programa": 113,
         "marijokes": true
+    },
+    {
+        "pergunta": "Porque os homens muito homens mesmo, preferem comer batata do que creme de avelã?",
+        "resposta_correta": "Porque eles são mais raiz, né",
+        "programa": 114
+    },
+    {
+        "pergunta": "Rolou uma festa da louça, nunca canto tavam as taças, no bar as canecas, e ai tavam os pires pra escolher seus salgadinhos, o João escolheu kibe, Fernando escolheu kibe, Juliano escolheu kibe, o Alexandre escolheu coxinha. Porque ale escolheu coxinha?",
+        "resposta_correta": "Porque ele escolheu so pra contrariar",
+        "programa": 114
+    },
+    {
+        "pergunta": "Qual a piada do pintinho caipira? \"Pir\"",
+        "programa": 114,
+        "marijokes": true
+    },
+    {
+        "pergunta": "Porque o surfista baixinho é contra fazer pipoca na panela no fogão?",
+        "resposta_correta": "Porque ele so surfa em microondas",
+        "programa": 112
+    },
+    {
+        "pergunta": "Tem um jogador de volei com a conta bancaria estourada, ele fez 1 ponto mais não comemoro, porque?",
+        "resposta_correta": "Porque ele teria que fazer 1 saque",
+        "programa": 112
+    },
+    {
+        "pergunta": "A cidade mais alegre da França será Pári, e a mais triste?",
+        "resposta_correta": "Pá chora",
+        "programa": 112
+    },
+    {
+        "pergunta": "Qual jornalista virou jogador de volei?",
+        "resposta_correta": "",
+        "programa": 112,
+        "expecial": true
     }
 ]
   
