@@ -62,15 +62,11 @@ function Deck() {
       {props.map(({ x, y, rot, scale }, i) => (
         <animated.div className={styles.deck} key={i} style={{ x, y }} onClick={() => handleResposta()}>
           {/* This is the card itself, we're binding our gesture to it (and inject its index so we know which is which) */}
-          <animated.div {...bind(i)} className={cards[i].marijokes ? styles.marijoke : ""} style={{transform: interpolate([rot, scale], trans)}}>
+          <animated.div {...bind(i)} className={cards[i].marijokes ? styles.marijoke : cards[i].expecial ? styles.expecial : ""} style={{transform: interpolate([rot, scale], trans)}}>
             <Pergunta pergunta={cards[i]} mostrarResultado={mostrarResultado}/>
           </animated.div>
         </animated.div>
       ))}
-      <script src="fitty.min.js"></script>
-      <script>
-        fitty('h2');
-      </script>
     </body>
   )
 }

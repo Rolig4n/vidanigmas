@@ -22,9 +22,9 @@
 .deck {
   position: absolute;
   width: 300px;
-  height: 200px;
   will-change: transform;
-  font-size: 1.1vw;
+  font-size: 1em;
+  container-name: deck;
   display: flex;
   align-items: stretch;
   justify-content: center;
@@ -32,18 +32,27 @@
 }
 
 .deck > .marijoke {
+  text-shadow: #ffffffd2 1px 0 10px;
   background-color: #df943d;
 }
 
+
+.deck > .expecial {
+  text-shadow: #fdb931 1px 0 10px;
+  background-color: transparent;
+  background: radial-gradient(ellipse farthest-corner at left bottom, #FEDB37 2%, #FDB931 8%, #9f7928 30%, #8A6E2F 50%, transparent 80%),
+  radial-gradient(ellipse farthest-corner at right top, #FFFFFF 1%, #FFFFAC 1%, #D1B464 28%, #5d4a1f 62.5%, #5d4a1f 80%);
+}
+
 .deck > div {
+  text-shadow: #242424d2 1px 0 10px;
   background-color: #df3f3d;
   background-size: auto 85%;
   background-repeat: no-repeat;
   background-position: center center;
   width: 50vh;
-  max-width: 300px;
-  height: 50vh;
-  max-height: 300px;
+  height: 60vh;
+  max-height: 1000px;
   will-change: transform;
   border-radius: 10px;
   box-shadow: 0 12.5px 100px -10px rgba(50, 50, 73, 0.1), 0 10px 10px -10px rgba(50, 50, 73, 0.1);
