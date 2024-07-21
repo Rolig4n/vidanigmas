@@ -59,13 +59,15 @@ body {
   color: #61dafb;
 }
 
-h2, h1{
+h2, h1, p{
   display: flex;
   justify-content: center;
   margin-left: 10px;
   margin-right: 5px;
-  font-size: 1em;
+  font-size: 1.1em;
+  font-weight: 900;
 }
+
 h1 {
   font-size: 1.5em;
 }

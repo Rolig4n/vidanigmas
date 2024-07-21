@@ -35,7 +35,6 @@
   background-color: #df943d;
 }
 
-
 .deck > .expecial {
   text-shadow: #fdb931 1px 0 10px;
   background-color: transparent;
@@ -62,4 +61,25 @@
   will-change: transform;
   border-radius: 10px;
   box-shadow: 0 12.5px 100px -10px rgba(50, 50, 73, 0.1), 0 10px 10px -10px rgba(50, 50, 73, 0.1);
+}
+
+.programa {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin: 5px;
+  color: transparent;
+  text-shadow: 4px 4px 7px rgb(223, 63, 61, 0.6), 0px 0px 0px #1e1e1e82;
+}
+
+.marijoke > div > .programa {
+  text-shadow: 4px 4px 7px rgba(223, 148, 61, 0.6), 0px 0px 0px #1e1e1e82;
+}
+
+.expecial > div > .programa {
+  text-shadow: 4px 4px 7px rgb(116, 92, 39, 0.6), 0px 0px 0px #1e1e1e82;
+}
+
+.charajoes > div > .programa {
+  text-shadow: 4px 4px 7px rgba(63, 49, 253, 0.6), 0px 0px 0px #1e1e1e82;
 }
