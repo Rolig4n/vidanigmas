@@ -6,7 +6,7 @@ const Pergunta = ({ pergunta, mostrarResultado }) => {
   return (
     <div>
       <h2>{textoPergunta}</h2>
-      <h2>{mostrarResultado ? resposta_correta : ''}</h2>
+      <h1>{mostrarResultado ? resposta_correta : ''}</h1>
     </div>
   );
 };

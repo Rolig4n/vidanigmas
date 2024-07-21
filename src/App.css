@@ -59,7 +59,7 @@ body {
   color: #61dafb;
 }
 
-h2{
+h2, h1{
   display: flex;
   justify-content: center;
   margin-left: 10px;

@@ -44,6 +44,13 @@
   radial-gradient(ellipse farthest-corner at right top, #FFFFFF 1%, #FFFFAC 1%, #D1B464 28%, #5d4a1f 62.5%, #5d4a1f 80%);
 }
 
+.deck > .charajoes {
+  text-shadow: #3f31fd 1px 0 10px;
+  background-color: transparent;
+  background: radial-gradient(ellipse farthest-corner at left bottom, #3a37fe 2%, #3431fd 8%, #282a9f 30%, #2f318a 50%, transparent 80%),
+  radial-gradient(ellipse farthest-corner at right top, #ffffff 1%, #ace8ff 1%, #64b8d1 20%, #1f5b5d 50%, #1f335d 80%);
+}
+
 .deck > div {
   text-shadow: #242424d2 1px 0 10px;
   background-color: #df3f3d;

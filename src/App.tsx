@@ -10,9 +10,9 @@ const cards = data
 // These two are just helpers, they curate spring data, values that are later being interpolated into css
 const to = (i: number) => ({
   x: 0,
-  y: i * -4,
+  y: i * -2,
   scale: 1,
-  rot: -10 + Math.random() * 20,
+  rot: -10 + Math.random() * 10,
   delay: i * 100,
 })
 const from = (_i: number) => ({ x: 0, rot: 0, scale: 1.5, y: -1000 })
@@ -62,7 +62,7 @@ function Deck() {
       {props.map(({ x, y, rot, scale }, i) => (
         <animated.div className={styles.deck} key={i} style={{ x, y }} onClick={() => handleResposta()}>
           {/* This is the card itself, we're binding our gesture to it (and inject its index so we know which is which) */}
-          <animated.div {...bind(i)} className={cards[i].marijokes ? styles.marijoke : cards[i].expecial ? styles.expecial : ""} style={{transform: interpolate([rot, scale], trans)}}>
+          <animated.div {...bind(i)} className={cards[i].marijokes ? styles.marijoke : cards[i].expecial ? styles.expecial : cards[i].charajoes ? styles.charajoes : ""} style={{transform: interpolate([rot, scale], trans)}}>
             <Pergunta pergunta={cards[i]} mostrarResultado={mostrarResultado}/>
           </animated.div>
         </animated.div>
