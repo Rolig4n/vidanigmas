@@ -7,7 +7,7 @@ const Pergunta = ({ pergunta, mostrarResultado }) => {
   return (
     <div>
       <h2>{textoPergunta}</h2>
-      <h1>{mostrarResultado ? resposta_correta : ''}</h1>
+      <h1>{mostrarResultado ? resposta_correta : ""}</h1>
       <p className={styles.programa}>ep.{programa}</p>
     </div>
   );

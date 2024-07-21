@@ -3,14 +3,13 @@ import { useSprings, animated, to as interpolate } from '@react-spring/web'
 import { useDrag } from 'react-use-gesture'
 import Pergunta from './pergunta'
 import styles from './styles.module.css'
-import data from './perguntas.json'
 import backgroundImage from './asset/background.jpg'
+import data from './perguntas.json'
 
-const cards = data
 // These two are just helpers, they curate spring data, values that are later being interpolated into css
 const to = (i: number) => ({
   x: 0,
-  y: i * -2,
+  y: i * -1,
   scale: 1,
   rot: -10 + Math.random() * 10,
   delay: i * 100,
@@ -20,7 +19,19 @@ const from = (_i: number) => ({ x: 0, rot: 0, scale: 1.5, y: -1000 })
 const trans = (r: number, s: number) =>
   `perspective(1500px) rotateX(30deg) rotateY(${r / 10}deg) rotateZ(${r}deg) scale(${s})`
 
-function Deck() {
+// Função para embaralhar as perguntas
+function embaralharPerguntas(data) {
+  for (let i = data.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    const temp = data[i];
+    data[i] = data[j];
+    data[j] = temp;
+  }
+  return data;
+}
+
+function Deck({perguntas}) {
+  const [cards, setCard] = useState(perguntas)
   const [gone] = useState(() => new Set()) // The set flags all the cards that are flicked out
   const [props, api] = useSprings(cards.length, i => ({
     ...to(i),
@@ -49,6 +60,7 @@ function Deck() {
     })
     if (!down && gone.size === cards.length)
       setTimeout(() => {
+        setCard(embaralharPerguntas(cards))// Quando as cartas são todas jogadas, elas serão reembaralhadas depois de voltar ao monte
         gone.clear()
         api.start(i => to(i))
       }, 600)
@@ -72,9 +84,10 @@ function Deck() {
 }
 
 export default function App() {
+  const perguntas = embaralharPerguntas(data)
   return (
     <div className={styles.container}>
-      <Deck />
+      <Deck perguntas={perguntas}/>
     </div>
   )
 }
