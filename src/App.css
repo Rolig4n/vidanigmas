@@ -64,4 +64,8 @@ h2, h1{
   justify-content: center;
   margin-left: 10px;
   margin-right: 5px;
+  font-size: 1em;
+}
+h1 {
+  font-size: 1.5em;
 }

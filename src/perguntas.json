@@ -1,20 +1,5 @@
 [
     {
-        "pergunta": "Uma contrutora de obras, contratatou uma passista chamada Carina pra ir em todas suas obras, porque?",
-        "resposta_correta": "Porque toda obra precisa que a Ca Samba",
-        "programa": 113
-    },
-    {
-        "pergunta": "Tinha um coronel da aeronautica com diabetes, que negou uma promoção no trabalho, porque?",
-        "resposta_correta": "Porque ele não queria ser brigadeiro",
-        "programa": 113
-    },
-    {
-        "pergunta": "Um caipira chega a casa de um amigo que ta vendo TV e pergunta \"Eai, firme?\" o outro reponde \"Não, futibor\"",
-        "programa": 113,
-        "marijokes": true
-    },
-    {
         "pergunta": "Porque os homens muito homens mesmo, preferem comer batata do que creme de avelã?",
         "resposta_correta": "Porque eles são mais raiz, né",
         "programa": 114
@@ -27,6 +12,21 @@
     {
         "pergunta": "Qual a piada do pintinho caipira? \"Pir\"",
         "programa": 114,
+        "marijokes": true
+    },
+    {
+        "pergunta": "Uma contrutora de obras, contratatou uma passista chamada Carina pra ir em todas suas obras, porque?",
+        "resposta_correta": "Porque toda obra precisa que a Ca Samba",
+        "programa": 113
+    },
+    {
+        "pergunta": "Tinha um coronel da aeronautica com diabetes, que negou uma promoção no trabalho, porque?",
+        "resposta_correta": "Porque ele não queria ser brigadeiro",
+        "programa": 113
+    },
+    {
+        "pergunta": "Um caipira chega a casa de um amigo que ta vendo TV e pergunta \"Eai, firme?\" o outro reponde \"Não, futibor\"",
+        "programa": 113,
         "marijokes": true
     },
     {
@@ -45,10 +45,364 @@
         "programa": 112
     },
     {
-        "pergunta": "Qual jornalista virou jogador de volei?",
-        "resposta_correta": "",
+        "pergunta": "Um jornalista virou jogador de volei, qual a melhor coisa que ele faz?",
+        "resposta_correta": "Ele da boas manchetes",
         "programa": 112,
         "expecial": true
+    },
+    {
+        "pergunta": "Porque a jogadora de volei não consegue mandar mensagem pro jogador de volei?",
+        "resposta_correta": "Porque ele bloquiou ela",
+        "programa": 112
+    },
+    {
+        "pergunta": "Qual a semelhança entre volei, internet e pescaria?",
+        "resposta_correta": "A rede",
+        "programa": 112,
+        "expecial": true
+    },
+    {
+        "pergunta": "Se quero ver um esporte e ao mesmo tempo estar no judiciario, qual esporte que eu vô?",
+        "resposta_correta": "Vô lei",
+        "programa": 112,
+        "expecial": true
+    },
+    {
+        "pergunta": "Qual esporte o Davi do BB não joga?",
+        "resposta_correta": "O brotcha",
+        "programa": 112,
+        "expecial": true
+    },
+    {
+        "pergunta": "Qual o iogurte favorito dos internautas?",
+        "resposta_correta": "O Danet",
+        "programa": 111
+    },
+    {
+        "pergunta": "Um cara chegou num velorio e pergunta \"Qual a senha do WIFI?\", e um parente incomodado falo \"Respeite o falecido!\" e ele pergunto \"É tudo junto?\"?",
+        "programa": 111,
+        "marijokes": true
+    },
+    {
+        "pergunta": "O que o tatu bola disse quando ele chegou no pânico no meio do milharal?",
+        "resposta_correta": "Boa milhassa",
+        "programa": 110
+    },
+    {
+        "pergunta": "Porque o açucar já teve problemas com a lei?",
+        "resposta_correta": "Porque ele estava em cana",
+        "programa": 110
+    },
+    {
+        "pergunta": "Uma menina ia casa, o pai dela era um manjador e viu um cara mijando no quintal, ficou apavorado, chamou a filha e disse não podia casar com o cara, e a filha \"Mas porque pai?\" \"Você tem ques desmanchar essa casamento agora, eu vi ele mijando, e ele tatudo nambuco no pinto\" \"meu deus do ceu pai\", ela foi la, terminou com ele e triste perguntou do porque \"Meu pai viu sua tatuagem\" \"Ele viu nem metade, ta escrito, `Saudades de Pernambuco`\"?",
+        "programa": 110,
+        "marijokes": true
+    },
+    {
+        "pergunta": "A irmã da minha mãe, botou arruda no vaso e amarro com nó de cadarço e desde então eu não consigo dizer não pra ela, porque?",
+        "resposta_correta": "Porque depois disso é só sim pa tia",
+        "programa": 109
+    },
+    {
+        "pergunta": "Porque a salsicha precisa urgentemente de um bom advogado?",
+        "resposta_correta": "Porque se trata de um alimento Ultra processado",
+        "programa": 109
+    },
+    {
+        "pergunta": "Qual problema de pele impede das pessoas brigarem muito no Twitter?",
+        "resposta_correta": "Não brigarem se tivessem calos",
+        "programa": 108
+    },
+    {
+        "pergunta": "Qual o presente de quatro rodas tradicionalmente trocado no dia dos namorados dos franceses?",
+        "resposta_correta": "O franceses trocam carrinhos",
+        "programa": 108
+    },
+    {
+        "pergunta": "Porque nas festa tradicionais juninas, ninguem quer saber falar do Cristiano Ronaldo?",
+        "resposta_correta": "É a epoca que o pessoal quer Messi",
+        "programa": 108
+    },
+    {
+        "pergunta": "Com o que a mamãe passaro amamenta seus filhotes?",
+        "resposta_correta": "É leite ninho",
+        "programa": 107
+    },
+    {
+        "pergunta": "Porque o cachorro quente favorito de Deus é o curitibano?",
+        "resposta_correta": "Porque o cachorro quente é um refeição di vina",
+        "programa": 107
+    },
+    {
+        "pergunta": "Numa floresta, as formigas caprichavam muito no furmigueiro, mas vinha um elevante e pisava em tudo, elas iam arrumavam mas ainda estavam chateadas e fizeram uma reunião pra acabar com o elevante. No final decidiram que quando ele passasse pulariam nele de uma arvore e picariam ele todo, pois dito e feito, quando o elefante chegou, as formigas cairam nele so que ele se sacudiu todo e so uma ficou agarrada no seus pescoço, no desespero ela gritava \"O que que eu faço!?\" e a formigas no chão gritavam \"Enforca ele, enforca ele\"",
+        "programa": 107,
+        "marijokes": true
+    },
+    {
+        "pergunta": "Porque é um costume bacana, levar a garrafa de 2L pra passear?",
+        "resposta_correta": "Porque você tem passear com seu PET",
+        "programa": 106
+    },
+    {
+        "pergunta": "Porque o exorcista, foi contrato pra trabalhar na escolinha infantil?",
+        "resposta_correta": "Porque ele é especialista em mochila de criança",
+        "programa": 106
+    },
+    {
+        "pergunta": "Porque o exorcista, foi contrato pra trabalhar na escolinha infantil?",
+        "resposta_correta": "Porque ele é especialista em mochila de criança",
+        "programa": 106
+    },
+    {
+        "pergunta": "Uma senhorinha foi ao médico com problemas de gases, \"Doutor, estou com problema de gases, graças a Deus ele são silenciosos e sem cheiro, desde que cheguei aqui soltei vários e ninguem percebeu\" e olhando pra velha deu um remédio e disse \"Volte daqui 1 semana\", 1 semana depois a idosa volta revoltada \"Doutor, não sei o que o senhor fez, mas agora os gases estão muito fedidos mas ainda silenciosos\" \"Agora que cuidamos da sua sinusite vamos cuidar da sua surdez\"",
+        "programa": 106,
+        "marijokes": true
+    },
+    {
+        "pergunta": "Qual o melhor lugar pra cantar e desejar feliz aniversário em alto mar?",
+        "resposta_correta": "No barco a vela",
+        "programa": 105
+    },
+    {
+        "pergunta": "No futebol do corpo humano, porque o ouvido tomou cartão amarelo?",
+        "resposta_correta": "Porque ele estava fazendo cera",
+        "programa": 105
+    },
+    {
+        "pergunta": "Porque todo mundo gosta de ser amigo do fogo?",
+        "resposta_correta": "Porque tudo que ele faz ele chama",
+        "programa": 105
+    },
+    {
+        "pergunta": "Porque o Mau se irritou e raspou logo o cabelo?",
+        "resposta_correta": "Porque Ficava sempre Mau cortado",
+        "programa": 105,
+        "charajoes": true
+    },
+    {
+        "pergunta": "Qual a novela favorita de um taurino da realeza?",
+        "resposta_correta": "É a rei do gado",
+        "programa": 105,
+        "charajoes": true
+    },
+    {
+        "pergunta": "Qual é o artista favorito do maior astrologo do mundo?",
+        "resposta_correta": "A Ariana Grande",
+        "programa": 105,
+        "charajoes": true
+    },
+    {
+        "pergunta": "Qual a vózinha que combina muito com strogonoff e batata palha?",
+        "resposta_correta": "A Rose",
+        "programa": 105,
+        "charajoes": true
+    },
+    {
+        "pergunta": "Porque a perola vive cismada e preocupada com medo de sair de moda?",
+        "resposta_correta": "Ela tem medo de ficar no ostracismo",
+        "programa": 104
+    },
+    {
+        "pergunta": "Qual o inseto favorito dos fumantes?",
+        "resposta_correta": "A cigarra",
+        "programa": 104
+    },
+    {
+        "pergunta": "Qual o lugar turistico preferido do ariano que edita textos?",
+        "resposta_correta": "Beto Carneiro Word",
+        "programa": 104,
+        "charajoes": true
+    },
+    {
+        "pergunta": "Porque o bandido é o cantor sertanejo favorito da galera do direito?",
+        "resposta_correta": "Porque o bandido pega a lei ea viola",
+        "programa": 103
+    },
+    {
+        "pergunta": "Qual o nome do talkshow do gato gripado?",
+        "resposta_correta": "É o Conversa com o Bial",
+        "programa": 102
+    },
+    {
+        "pergunta": "Qual o animal que chamam de esquisito que furou a orelha?",
+        "resposta_correta": "É o ornitobrinco",
+        "programa": 101
+    },
+    {
+        "pergunta": "Porque uma pessoa vivia muito triste antes de furar orelha?",
+        "resposta_correta": "Porque ela usava brincos de pressão",
+        "programa": 101
+    },
+    {
+        "pergunta": "Porque uma pessoa fica muito triste antes de comer feijão?",
+        "resposta_correta": "Porque ela usa panela de pressão",
+        "programa": 101
+    },
+    {
+        "pergunta": "Qual atriz parou de atuar para realizar seu sonho de abrir uma peixaria?",
+        "resposta_correta": "A Vera Fisher",
+        "programa": 101
+    },
+    {
+        "pergunta": "Porque o mamãozinho do nene tava cheio de areia?",
+        "resposta_correta": "Era um mamão pa paia",
+        "programa": 100
+    },
+    {
+        "pergunta": "Qual a frutinha verdinha e azedinha que é usada pra temperar a plateia num programinha de auditório?",
+        "resposta_correta": "A liminha",
+        "programa": 100
+    },
+    {
+        "pergunta": "Qual o nome do irmão doente da Hello Kitty?",
+        "resposta_correta": "É o bron Kitty",
+        "programa": 99
+    },
+    {
+        "pergunta": "Qual a avé que é um rapaz democrático?",
+        "resposta_correta": "É a guy vota",
+        "programa": 99
+    },
+    {
+        "pergunta": "Porque o namoro do espantalho acabou?",
+        "resposta_correta": "Porque a paixão era fogo de palha",
+        "programa": 99
+    },
+    {
+        "pergunta": "Se o batman é a noite, quando ele sai pra caçar bandidos qual a musica que ele mais gosta de ouvir?",
+        "resposta_correta": "O som da noite, as baladas, KASSINO!",
+        "programa": 99
+    },
+    {
+        "pergunta": "Porque o soldado ficou pelado no meio do tiroteio?",
+        "resposta_correta": "Pra evitar tiro a queima roupa",
+        "programa": 98
+    },
+    {
+        "pergunta": "Qual zagueiro brasileiro é muito fã de Iron Maiden?",
+        "resposta_correta": "É o Roque Júnior",
+        "programa": 98
+    },
+    {
+        "pergunta": "Qual o peixe favorito dos ruivos?",
+        "resposta_correta": "Eles gostam de sardinhas",
+        "programa": 98
+    },
+    {
+        "pergunta": "Porque no futebol de cavalos não tem emoção?",
+        "resposta_correta": "Porque sempre terminam em patadas",
+        "programa": 97
+    },
+    {
+        "pergunta": "Qual a escritora de livros mistérios que faz a irmã da Andreia chorar?",
+        "resposta_correta": "A Agatha triste",
+        "programa": 97
+    },
+    {
+        "pergunta": "Qual o animal especialista em construir represa e fazer apostar no jogo do bixo?",
+        "resposta_correta": "O castor de andrade",
+        "programa": 97
+    },
+    {
+        "pergunta": "Qual o sapor preferido de pizza do Azaghal?",
+        "resposta_correta": "A portuguesa",
+        "programa": 97,
+        "expecial":true
+    },
+    {
+        "pergunta": "Sabe porque meu dragão de estimação se recusa a ficar no quintal?",
+        "resposta_correta": "É um dragão de comodo",
+        "programa": 96
+    },
+    {
+        "pergunta": "Com quem o homem-aranha aprendeu empreendedorismo?",
+        "resposta_correta": "Com a tia MEI",
+        "programa": 96
+    },
+    {
+        "pergunta": "Uma noite fui acampar e no meio da noite ouvi gritos vindo da floresta \"AIAIAIAIAIAI\", quem era?",
+        "resposta_correta": "Era a Vanessa na mata",
+        "programa": 96
+    },
+    {
+        "pergunta": "Qual o principal ingrediente do strogonoff na Russia?",
+        "resposta_correta": "É o Kremlin de leite",
+        "programa": 95
+    },
+    {
+        "pergunta": "Sabe porque sapos ouvem muito paralamas do sucesso?",
+        "resposta_correta": "Porque eles adoram o uébert viana",
+        "programa": 95
+    },
+    {
+        "pergunta": "Porque o apresentador Ratinho não tem medo de se quieimar quando vai a praia?",
+        "resposta_correta": "Porque ele sempre anda com o Sombra",
+        "programa": 94
+    },
+    {
+        "pergunta": "Qual o alimento, parente do panetone, é especialista em interpretar pai solteiro?",
+        "resposta_correta": "A colomba Pascal",
+        "programa": 94
+    },
+    {
+        "pergunta": "Porque o aprensentado Ratinho não tem crise de tosse?",
+        "resposta_correta": "Porque ele sempre tem o Xaropinho",
+        "programa": 94
+    },
+    {
+        "pergunta": "Qual a plataforma feita pra deixar exitadas as pessoas que são muitos fãs de sobremesas parecidas com pudim?",
+        "resposta_correta": "O onlyFlans",
+        "programa": 93
+    },
+    {
+        "pergunta": "Porque que russo tem fama de vacilão não entende as coisas direito?",
+        "resposta_correta": "Porque até a capital Moscow imagina a população",
+        "programa": 93
+    },
+    {
+        "pergunta": "Qual integrante feio da batfamilia fazia comédia no Brasil?",
+        "resposta_correta": "É o BAToré",
+        "programa": 93
+    },
+    {
+        "pergunta": "O que o Ash disse quando viu o Brock capturando um pokemon sem roupa?",
+        "resposta_correta": "Po que bola",
+        "programa": 92
+    },
+    {
+        "pergunta": "Como se chama o segundo lugar numa competição de carecas?",
+        "resposta_correta": "É o calVice campeão",
+        "programa": 92
+    },
+    {
+        "pergunta": "Qual humorista ficou famoso por ser apenas um menino causando com as garotas em pleno carnaval?",
+        "resposta_correta": "O Marcelo adNey",
+        "programa": 92
+    },
+    {
+        "pergunta": "Qual o pokemon de fogo mais charmoso de todos?",
+        "resposta_correta": "CHARMEleon",
+        "programa": 91
+    },
+    {
+        "pergunta": "Qual ator de vingadores que deixas as roupas mais cheirosas quando lava roupa?",
+        "resposta_correta": "É o Robert Downy Jr.",
+        "programa": 91
+    },
+    {
+        "pergunta": "Qual animal tem 3 patas?",
+        "resposta_correta": "O pato não monogamico",
+        "programa": 91
+    },
+    {
+        "pergunta": "Qual o queijo favorito da industria da sensualidade?",
+        "resposta_correta": "É o strip Cheese",
+        "programa": 91
+    },
+    {
+        "pergunta": "",
+        "resposta_correta": "",
+        "programa": 89
     }
 ]
   

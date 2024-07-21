@@ -23,7 +23,6 @@
   position: absolute;
   width: 300px;
   will-change: transform;
-  font-size: 1em;
   container-name: deck;
   display: flex;
   align-items: stretch;
