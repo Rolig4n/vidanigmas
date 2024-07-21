@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/vidanigmas/static/css/main.2340fea7.css",
-    "main.js": "/vidanigmas/static/js/main.e89674e0.js",
+    "main.css": "/vidanigmas/static/css/main.2756fbe5.css",
+    "main.js": "/vidanigmas/static/js/main.3678e85f.js",
     "static/js/453.40bc2708.chunk.js": "/vidanigmas/static/js/453.40bc2708.chunk.js",
     "static/media/background.jpg": "/vidanigmas/static/media/background.95633edfa162c9115d2a.jpg",
     "index.html": "/vidanigmas/index.html",
-    "main.2340fea7.css.map": "/vidanigmas/static/css/main.2340fea7.css.map",
-    "main.e89674e0.js.map": "/vidanigmas/static/js/main.e89674e0.js.map",
+    "main.2756fbe5.css.map": "/vidanigmas/static/css/main.2756fbe5.css.map",
+    "main.3678e85f.js.map": "/vidanigmas/static/js/main.3678e85f.js.map",
     "453.40bc2708.chunk.js.map": "/vidanigmas/static/js/453.40bc2708.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2340fea7.css",
-    "static/js/main.e89674e0.js"
+    "static/css/main.2756fbe5.css",
+    "static/js/main.3678e85f.js"
   ]
 }
