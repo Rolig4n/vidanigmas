@@ -2,12 +2,14 @@ import React from 'react';
 import ReactDOM from 'react-dom/client'
 import './App.css';
 import App from './App.tsx';
+import Info from './info.tsx'
 import reportWebVitals from './reportWebVitals.js';
 
 const rootElement = document.getElementById('root')!
 ReactDOM.createRoot(rootElement).render(
   <React.StrictMode>
     <App />
+    <Info />
   </React.StrictMode>
 )
 

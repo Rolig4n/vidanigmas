@@ -83,3 +83,24 @@
 .charajoes > div > .programa {
   text-shadow: 4px 4px 7px rgba(44, 52, 131, 0.6), 0px 0px 0px #1e1e1e82;
 }
+
+
+.marijoke {
+  background-color: #df943d;
+}
+
+.expecial {
+  background-color: transparent;
+  background: radial-gradient(ellipse farthest-corner at left bottom, #FEDB37 2%, #FDB931 8%, #9f7928 30%, #8A6E2F 50%, transparent 80%),
+  radial-gradient(ellipse farthest-corner at right top, #FFFFFF 1%, #FFFFAC 1%, #D1B464 28%, #5d4a1f 62.5%, #5d4a1f 80%);
+}
+
+.charajoes {
+  background-color: transparent;
+  background: radial-gradient(ellipse farthest-corner at left bottom, #3a37fe 2%, #3431fd 8%, #282a9f 30%, #2f318a 50%, transparent 80%),
+  radial-gradient(ellipse farthest-corner at right top, #ffffff 1%, #ace8ff 1%, #64b8d1 20%, #1f5b5d 50%, #1f335d 80%);
+}
+
+.padrao {
+  background-color: #df3f3d;
+}
