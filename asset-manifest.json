@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/vidanigmas/static/css/main.0fc45bbc.css",
-    "main.js": "/vidanigmas/static/js/main.0dee15f6.js",
+    "main.css": "/vidanigmas/static/css/main.d7ab3a8d.css",
+    "main.js": "/vidanigmas/static/js/main.2fb4fdfa.js",
     "static/js/453.40bc2708.chunk.js": "/vidanigmas/static/js/453.40bc2708.chunk.js",
     "static/media/background.jpg": "/vidanigmas/static/media/background.95633edfa162c9115d2a.jpg",
     "index.html": "/vidanigmas/index.html",
-    "main.0fc45bbc.css.map": "/vidanigmas/static/css/main.0fc45bbc.css.map",
-    "main.0dee15f6.js.map": "/vidanigmas/static/js/main.0dee15f6.js.map",
+    "main.d7ab3a8d.css.map": "/vidanigmas/static/css/main.d7ab3a8d.css.map",
+    "main.2fb4fdfa.js.map": "/vidanigmas/static/js/main.2fb4fdfa.js.map",
     "453.40bc2708.chunk.js.map": "/vidanigmas/static/js/453.40bc2708.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0fc45bbc.css",
-    "static/js/main.0dee15f6.js"
+    "static/css/main.d7ab3a8d.css",
+    "static/js/main.2fb4fdfa.js"
   ]
 }
