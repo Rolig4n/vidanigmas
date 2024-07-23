@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 
 const Button = styled.button`
-  background: white;
+  display: flex;
   color: black;
   border-radius: 50%;
   border: none;
@@ -18,9 +18,8 @@ const Button = styled.button`
   }
 `;
 
-export const IconButton = ({ icon, className ="", ...rest }) => (
+export const IconButton = ({ icon, valor="", className="", ...rest }) => (
   <Button className={className}{...rest}>
-    {console.log(className)}
-    <span>{icon}</span>
+    {icon}
   </Button>
 );

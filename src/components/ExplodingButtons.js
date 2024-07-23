@@ -100,7 +100,7 @@ export class ExplodingButtons extends PureComponent {
     this.setState({ open: bool });
   };
 
-  // exclaim = content => () => alert(`Essa carta da ${content} pontos`);
+  exclaim = content => () => alert(`${content}`);
 
   render() {
     const { children, icon = "💡" } = this.props;
@@ -140,7 +140,7 @@ export class ExplodingButtons extends PureComponent {
           />
           {React.Children.map(children, (child, i) => (
             <ButtonContainer
-              // onClick={this.exclaim(child.props.icon)}
+              onClick={this.exclaim(child.props.valor)}
               open={open}
               key={i}
               count={count}
