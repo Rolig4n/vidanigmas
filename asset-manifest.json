@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/vidanigmas/static/css/main.d7ab3a8d.css",
-    "main.js": "/vidanigmas/static/js/main.2fb4fdfa.js",
+    "main.css": "/vidanigmas/static/css/main.05531234.css",
+    "main.js": "/vidanigmas/static/js/main.d8b63147.js",
     "static/js/453.40bc2708.chunk.js": "/vidanigmas/static/js/453.40bc2708.chunk.js",
     "static/media/background.jpg": "/vidanigmas/static/media/background.95633edfa162c9115d2a.jpg",
+    "static/media/instagram-brands-solid.svg": "/vidanigmas/static/media/instagram-brands-solid.9b97942d29fbfd31b4ef2e55bfae4b92.svg",
     "index.html": "/vidanigmas/index.html",
-    "main.d7ab3a8d.css.map": "/vidanigmas/static/css/main.d7ab3a8d.css.map",
-    "main.2fb4fdfa.js.map": "/vidanigmas/static/js/main.2fb4fdfa.js.map",
+    "static/media/question-solid.svg": "/vidanigmas/static/media/question-solid.b514bbacfa4297289458e54152960eb7.svg",
+    "static/media/5-solid.svg": "/vidanigmas/static/media/5-solid.2f661dfbbfdb963fa9d31dbcad507852.svg",
+    "static/media/2-solid.svg": "/vidanigmas/static/media/2-solid.64605ecfb0a4269aacd6f1a569bb37e5.svg",
+    "static/media/1-solid.svg": "/vidanigmas/static/media/1-solid.0445edcf5907896df7dc4cec09d269b8.svg",
+    "main.05531234.css.map": "/vidanigmas/static/css/main.05531234.css.map",
+    "main.d8b63147.js.map": "/vidanigmas/static/js/main.d8b63147.js.map",
     "453.40bc2708.chunk.js.map": "/vidanigmas/static/js/453.40bc2708.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d7ab3a8d.css",
-    "static/js/main.2fb4fdfa.js"
+    "static/css/main.05531234.css",
+    "static/js/main.d8b63147.js"
   ]
 }
