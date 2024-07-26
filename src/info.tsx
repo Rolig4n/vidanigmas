@@ -13,7 +13,7 @@ const um = <Num1 />
 const cinco = <Num5 />
 const quinze = [<Num1 />, <Num5 />]
 const vinteCinco = [<Num2 />, <Num5 />]
-const social = <a href="https://www.instagram.com/rolig4n/" target="_blank"><Instagram /></a>
+const social = <a href="https://www.instagram.com/rolig4n/" target="_blank" rel="noreferrer"><Instagram /></a>
 
 function InfoButton() {
   return (

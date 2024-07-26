@@ -1,5 +1,4 @@
 .container {
-  background: #df3f3d;
   cursor: url('https://uploads.codesandbox.io/uploads/user/b3e56831-8b98-4fee-b941-0e27f39883ab/Ad1_-cursor.png') 39 39,
     auto;
   display: flex;
@@ -15,7 +14,6 @@
   height: 100vh;
   background-size: cover; /* Cover the entire container */
   background-position: top center; /* Center the image */
-  background-color: #df3f3d; /* Roxo Real */
   padding: 20px;
 }
 
@@ -103,4 +101,21 @@
 
 .padrao {
   background-color: #df3f3d;
+}
+
+@media only screen and (max-width: 600px) {
+  .deck > div {
+    height: 80vh;
+    margin-top: 10%;
+  }
+  button > .default {
+    width: 40px;
+    height: 40px;
+  }
+}
+
+@media only screen and (min-width: 601px) and (max-width: 800px) {
+  .deck > div {
+    height: 70vh;
+  }
 }

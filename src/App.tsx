@@ -3,7 +3,6 @@ import { useSprings, animated, to as interpolate } from '@react-spring/web'
 import { useDrag } from 'react-use-gesture'
 import Pergunta from './pergunta'
 import styles from './styles.module.css'
-import backgroundImage from './asset/background.jpg'
 import data from './perguntas.json'
 
 // These two are just helpers, they curate spring data, values that are later being interpolated into css
@@ -70,7 +69,7 @@ function Deck({perguntas}) {
   }
   // Now we're just mapping the animated values to our view, that's it. Btw, this component only renders once. :-)
   return (
-    <body className="App" style={{ backgroundImage: `url(${backgroundImage})` }}>
+    <header className="App">
       {props.map(({ x, y, rot, scale }, i) => (
         <animated.div className={styles.deck} key={i} style={{ x, y }} onClick={() => handleResposta()}>
           {/* This is the card itself, we're binding our gesture to it (and inject its index so we know which is which) */}
@@ -79,7 +78,7 @@ function Deck({perguntas}) {
           </animated.div>
         </animated.div>
       ))}
-    </body>
+    </header>
   )
 }
 

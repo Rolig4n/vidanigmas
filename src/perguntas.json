@@ -1,5 +1,15 @@
 [
     {
+        "pergunta": "Qual medalha que o atleta galinácio não quer ganhar em Páris?",
+        "resposta_correta": "O medalão de franbacon",
+        "programa": 115
+    },
+    {
+        "pergunta": "Porque o Mickey Mouse não vai trabalhar na eleição americana?",
+        "resposta_correta": "Para que o Donald trampe",
+        "programa": 115
+    },
+    {
         "pergunta": "Porque os homens muito homens mesmo, preferem comer batata do que creme de avelã?",
         "resposta_correta": "Porque eles são mais raiz, né",
         "programa": 114
