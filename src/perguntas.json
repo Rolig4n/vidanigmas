@@ -1,5 +1,32 @@
 [
     {
+        "pergunta": "Qual inceto o rico não aceita ter em casa de jeito nenhum?",
+        "resposta_correta": "É a barata",
+        "programa": 116
+    },
+    {
+        "pergunta": "Qual inceto o Jovem Nerd não aceita ter em casa de jeito nenhum?",
+        "resposta_correta": "O louva deus",
+        "programa": 116
+    },
+    {
+        "pergunta": "Qual inceto é o melhor presente que uma menina pode dar para a coleguinha?",
+        "resposta_correta": "É for miga",
+        "programa": 116
+    },
+    {
+        "pergunta": "Porque o Mau se irritou e raspou logo o cabelo?",
+        "resposta_correta": "Porque sempre ficava Mau cortado",
+        "programa": 116,
+        "marijokes": true
+    },
+    {
+        "pergunta": "Porque a faxineira não luta karate?",
+        "resposta_correta": "Porque ela luta ca poeira",
+        "programa": 116,
+        "marijokes": true
+    },
+    {
         "pergunta": "Qual medalha que o atleta galinácio não quer ganhar em Páris?",
         "resposta_correta": "O medalão de franbacon",
         "programa": 115
