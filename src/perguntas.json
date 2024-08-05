@@ -147,7 +147,7 @@
     },
     {
         "pergunta": "Qual problema de pele impede das pessoas brigarem muito no Twitter?",
-        "resposta_correta": "Não brigarem se tivessem calos",
+        "resposta_correta": "Não brigariam se tivessem calos",
         "programa": 108
     },
     {
@@ -212,7 +212,7 @@
     },
     {
         "pergunta": "Porque o Mau se irritou e raspou logo o cabelo?",
-        "resposta_correta": "Porque Ficava sempre Mau cortado",
+        "resposta_correta": "Porque ficava sempre Mau cortado",
         "programa": 105,
         "charajoes": true
     },
@@ -437,9 +437,119 @@
         "programa": 91
     },
     {
-        "pergunta": "",
-        "resposta_correta": "",
+        "pergunta": "Esse Ep. não teve vidanigma, mas, como sabemos que a Harmonia do Samba estava na diretoria do PSG em 2017?",
+        "resposta_correta": "Porque eles estão só \"Vem Ney Ney, Ney Ney vem Ney Ney\"",
+        "programa": 90,
+        "expecial": true
+    },
+    {
+        "pergunta": "Qual música brasileira que conta a historia de um irmão da igreja que comprou um carro novo e vai doar pro pastor?",
+        "resposta_correta": "Carrin do irmão pá da, pá da da da",
         "programa": 89
+    },
+    {
+        "pergunta": "Qual a parte da oração Pai Nosso favorita da galera do Brasil Que Deu Certo",
+        "resposta_correta": "A do Matheus eu não sei mas a do Ciro Hamen!",
+        "programa": 89
+    },
+    {
+        "pergunta": "Qual a maior vantagem de comer uma pizza feita pelo Mauricio?",
+        "resposta_correta": "Ela vem bem Facciada",
+        "programa": 89
+    },
+    {
+        "pergunta": "Quem é o idolo favorito dos galos de briga no geral?",
+        "resposta_correta": "É o Popo",
+        "programa": 88
+    },
+    {
+        "pergunta": "Qual personagem de Senhor dos aneis melhor se encaixava no grupo?",
+        "resposta_correta": "É o LEGOlas",
+        "programa": 87
+    },
+    {
+        "pergunta": "Qual participante do BBB24 é muito contra a um volante do Brasil na copa de 94?",
+        "resposta_correta": "É o Nizam, que ao contrário é Mazin",
+        "programa": 87
+    },
+    {
+        "pergunta": "Porque os Vingadores não vão em um médico normal?",
+        "resposta_correta": "Porque eles preferem o Doutor Estranho",
+        "programa": 86
+    },
+    {
+        "pergunta": "Porque o Quarteto Fantastico parou de chamar o Tocha Humana pro reveillon?",
+        "resposta_correta": "Porque ele solta fogos",
+        "programa": 86
+    },
+    {
+        "pergunta": "Qual é o melhor instrumento pra tocar a música do seu despertador?",
+        "resposta_correta": "É o acordeon",
+        "programa": 85
+    },
+    {
+        "pergunta": "Qual a raça de cachorro que gosta de exercitar a leitura quando está calor?",
+        "resposta_correta": "É o hot vai ler",
+        "programa": 85
+    },
+    {
+        "pergunta": "Esse Ep. não teve vidanigma",
+        "resposta_correta": "Nada de ponto",
+        "programa": 84
+    },
+    {
+        "pergunta": "Esse Ep. não teve vidanigma, mas é o Ep. que DESCOBRIMOS que coincidentemente o Doug não faz aniversário no mesmo dia que o filho da Maryjoe",
+        "resposta_correta": "Nada de ponto",
+        "programa": 83
+    },
+    {
+        "pergunta": "Esse Ep. não teve vidanigma",
+        "resposta_correta": "Nada de ponto",
+        "programa": 82
+    },
+    {
+        "pergunta": "Esse Ep. não teve vidanigma",
+        "resposta_correta": "Nada de ponto",
+        "programa": 81
+    },
+    {
+        "pergunta": "Qual o estilo músical que você canta para Deus?",
+        "resposta_correta": "É o paGod",
+        "programa": 80
+    },
+    {
+        "pergunta": "Qual o ritmo músical favorito dos confeiteiros?",
+        "resposta_correta": "É o merengue eo bolero",
+        "programa": 80
+    },
+    {
+        "pergunta": "Que que os gadgets da Apple e os Beatles tem em comum?",
+        "resposta_correta": "Bateria fraca",
+        "programa": 80
+    },
+    {
+        "pergunta": "Esse Ep. não teve vidanigma, mas é nesse Ep. que o Vidane celeram o 1 ano do lançamento do Vai Te Catar",
+        "resposta_correta": "Nada de ponto",
+        "programa": 79
+    },
+    {
+        "pergunta": "Qual a banda de pagode que não aceita que você ouça descalço?",
+        "resposta_correta": "É a Só No Sapatinho",
+        "programa": 78
+    },
+    {
+        "pergunta": "Qual banda de pagode é indicada pra quem tem pressão baixa?",
+        "resposta_correta": "É o Catinguele, porque o cantor é Salgadinho",
+        "programa": 78
+    },
+    {
+        "pergunta": "Qual banda pra quem gosta de trocar de casal enquanto coloca santo de cabeça pra baixo no copo d'água?",
+        "resposta_correta": "O Swing e Simpatia",
+        "programa": 78
+    },
+    {
+        "pergunta": "Qual grupo de pagode é contra a câmera digital?",
+        "resposta_correta": "É o Revelação",
+        "programa": 78
     }
 ]
-  
