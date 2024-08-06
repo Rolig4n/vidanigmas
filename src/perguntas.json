@@ -828,5 +828,155 @@
         "pergunta": "Cavalo gosta de café fraco ou forte e porque?",
         "resposta_correta": "Gosta de café fraco, porque pocopó pocopó pocopó...",
         "programa": 57
+    },
+    {
+        "pergunta": "Fui lamber uma orelha e ela estava muita azeda, sabe porque?",
+        "resposta_correta": "Porque era a orelha do Lima Duarte",
+        "programa": 56
+    },
+    {
+        "pergunta": "Porque Napoleão adorava uma baladinha?",
+        "resposta_correta": "Porque ele era bom na party",
+        "programa": 56
+    },
+    {
+        "pergunta": "Qual cantorna internácional abriu um açougue?",
+        "resposta_correta": "A Taylor Swift",
+        "programa": 56
+    },
+    {
+        "pergunta": "O que um largarto disse pro outro quando descobriu que estava sendo traido?",
+        "resposta_correta": "Me iguana que eu gosto",
+        "programa": 56
+    },
+    {
+        "pergunta": "Quando faço uma compra sempre passo do debits, sabe quem faz diferente?",
+        "resposta_correta": "O Linin Credits",
+        "programa": 56
+    },
+    {
+        "pergunta": "Porque o petróleo foi ao psicólogo?",
+        "resposta_correta": "Porque ele estava no fundo do poço",
+        "programa": 55
+    },
+    {
+        "pergunta": "Quem é que sempre precisa de uma mãozinha pra trabalhar?",
+        "resposta_correta": "A manicure",
+        "programa": 55
+    },
+    {
+        "pergunta": "Qual cavaleiro que deveria estar na távola redonda de rei Arthur mas não estáva?",
+        "resposta_correta": "É o Sir Curferencia",
+        "programa": 55
+    },
+    {
+        "pergunta": "Porque que o homem invisivel mudou de carreira profissional?",
+        "resposta_correta": "Porque ele não se via fazendo o que ele fazia antes",
+        "programa": 55
+    },
+    {
+        "pergunta": "Qual a problemática de um homem se casar com a irmã da sua propria viuva?",
+        "resposta_correta": "Porque ele esta morto",
+        "programa": 55
+    },
+    {
+        "pergunta": "O que vai muito bem atras do microondas 5h30 da manhã?",
+        "resposta_correta": "Uma toalha cagada",
+        "programa": 55,
+        "expecial": true
+    },
+    {
+        "pergunta": "O açogueiro vende carne, o sorveteiro vende sorvete, o padeiro vende pão e você vende o que?",
+        "resposta_correta": "Vende Zap",
+        "programa": 54,
+        "cantada": true
+    },
+    {
+        "pergunta": "Me chama de lente...",
+        "resposta_correta": "Porque vamos manter contato",
+        "programa": 54,
+        "cantada": true
+    },
+    {
+        "pergunta": "Você vende brigadeiro? Não?",
+        "resposta_correta": "Então aceito um beijinho",
+        "programa": 54,
+        "cantada": true
+    },
+    {
+        "pergunta": "Você trabalha na receita federal?",
+        "resposta_correta": "Porque hoje é a data limite e eu preciso me declarar pra você",
+        "programa": 54,
+        "cantada": true
+    },
+    {
+        "pergunta": "Porque um prédio falou pra outro prédio que tinha que virar modelo?",
+        "resposta_correta": "Porque ele tinha um andar maravilhoso",
+        "programa": 53
+    },
+    {
+        "pergunta": "Onde moram os minios do Meu Malvado Favorito?",
+        "resposta_correta": "Em condominions",
+        "programa": 53
+    },
+    {
+        "pergunta": "O que é uma idosa sem relógio?",
+        "resposta_correta": "É uma sem hora",
+        "programa": 53
+    },
+    {
+        "pergunta": "Sabe porque os bombeiros não gostam de andar?",
+        "resposta_correta": "Porque eles socorrem",
+        "programa": 53
+    },
+    {
+        "pergunta": "Qual o jeito mais contavel para o batman, o homem murcego, dormir?",
+        "resposta_correta": "De Bruce",
+        "programa": 52
+    },
+    {
+        "pergunta": "Qual peça de computadar é a mais anfibia?",
+        "resposta_correta": "A memória RAM",
+        "programa": 52
+    },
+    {
+        "pergunta": "Qual o nome do jogo que as pessoas não sabem falar não?",
+        "resposta_correta": "The sims",
+        "programa": 52
+    },
+    {
+        "pergunta": "Sabe porque no Mortal Kombat os personagens nunca sextaram?",
+        "resposta_correta": "Porque eles já Quintaro",
+        "programa": 52
+    },
+    {
+        "pergunta": "Porque uma girafa bebe mais agua em março do que fevereiro?",
+        "resposta_correta": "Porque março tem mais dias",
+        "programa": 52
+    },
+    {
+        "pergunta": "Como chama o animal que anda com a pata na cabeça?",
+        "resposta_correta": "É um pato apaixonado",
+        "programa": 51
+    },
+    {
+        "pergunta": "Porque a caminhoneta da igreja bateu?",
+        "resposta_correta": "Porque a caminhoneta estava sem frei",
+        "programa": 51
+    },
+    {
+        "pergunta": "Qual a semelhança entre o cachorro e o ouro?",
+        "resposta_correta": "Os dois que lates",
+        "programa": 51
+    },
+    {
+        "pergunta": "Qual o estado brasileiro que mais gosta de bagunça?",
+        "resposta_correta": "O AmaZonas",
+        "programa": 51
+    },
+    {
+        "pergunta": "Sabe quando da azar ver um gato preto?",
+        "resposta_correta": "Quando você é um rato",
+        "programa": 51
     }
 ]

@@ -73,7 +73,7 @@ function Deck({perguntas}) {
       {props.map(({ x, y, rot, scale }, i) => (
         <animated.div className={styles.deck} key={i} style={{ x, y }} onClick={() => handleResposta()}>
           {/* This is the card itself, we're binding our gesture to it (and inject its index so we know which is which) */}
-          <animated.div {...bind(i)} className={cards[i].marijokes ? styles.marijoke : cards[i].expecial ? styles.expecial : cards[i].charajoes ? styles.charajoes : ""} style={{transform: interpolate([rot, scale], trans)}}>
+          <animated.div {...bind(i)} className={cards[i].marijokes ? styles.marijoke : cards[i].expecial ? styles.expecial : cards[i].charajoes ? styles.charajoes : cards[i].cantada ? styles.cantada : ""} style={{transform: interpolate([rot, scale], trans)}}>
             <Pergunta pergunta={cards[i]} mostrarResultado={mostrarResultado}/>
           </animated.div>
         </animated.div>

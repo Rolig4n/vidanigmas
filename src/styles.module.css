@@ -33,6 +33,10 @@
   background-color: #df943d;
 }
 
+.deck > .cantada {
+  background-color: #dd4cad;
+}
+
 .deck > .expecial {
   text-shadow: #fdb931 1px 0 10px;
   background-color: transparent;
@@ -74,6 +78,10 @@
   text-shadow: 4px 4px 7px rgba(223, 148, 61, 0.6), 0px 0px 0px #1e1e1e82;
 }
 
+.cantada > div > .programa {
+  text-shadow: 4px 4px 7px rgb(221, 76, 173, 0.6), 0px 0px 0px #1e1e1e82;
+}
+
 .expecial > div > .programa {
   text-shadow: 4px 4px 7px rgb(116, 92, 39, 0.6), 0px 0px 0px #1e1e1e82;
 }
@@ -85,6 +93,10 @@
 
 .marijoke {
   background-color: #df943d;
+}
+
+.cantada {
+  background-color: #dd4cad;
 }
 
 .expecial {
