@@ -1,5 +1,26 @@
 [
     {
+        "pergunta": "Um comodo da casa foi banido do campeonato de e-sports dos comodos, qual comodo foi banido e porque?",
+        "resposta_correta": "A sala, porque ela esta usando hack",
+        "programa": 117
+    },
+    {
+        "pergunta": "Porque que o cantor Milton Nascimento fica muito bravo quando ele joga peteca?",
+        "resposta_correta": "Porque ele vira o badMilton",
+        "programa": 117
+    },
+    {
+        "pergunta": "Qual povo originário americano eram viciados em ir na academia?",
+        "resposta_correta": "São os máia",
+        "programa": 117
+    },
+    {
+        "pergunta": "Três amigos estavam hospedados em Aspem, quando o aquecedor da casa quebrou, para não morrem de frio eles decidiram dormir todos juntinhos. No dia seguinte, o que dormiu no lado direito disse, \"Eu tive um sonho muito interessante, sonhei que estavam me masturbando\" o amigo que durmiu do lado esquerdo se assustou e disse \"Eu nao acredito, sonhei o mesmo\" o que durmiu no meio respondeu desapontado \"Aaah, eu só sonhei que esquiava a noite toda\"",
+        "resposta_correta": "",
+        "programa": 117,
+        "marijokes": true
+    },
+    {
         "pergunta": "Qual inceto o rico não aceita ter em casa de jeito nenhum?",
         "resposta_correta": "É a barata",
         "programa": 116
