@@ -1,5 +1,21 @@
 [
     {
+        "pergunta": "Dois trabalhadores estavam conversando e um falou assim bem baixinho \"Cada vez que eu vou trabalhar eu me escondo\" e ou outro perguntou \"Porque?\" \"Porque um bom trabalhador é difícil de encontrar\"",
+        "resposta_correta": "",
+        "programa": 118,
+        "marijokes":true
+    },
+    {
+        "pergunta": "Sabe como chamam gente velha na Apple?",
+        "resposta_correta": "iDoso",
+        "programa": 118
+    },
+    {
+        "pergunta": "Qual a parte mais velha do carro?",
+        "resposta_correta": "É o Vô lante",
+        "programa": 118
+    },
+    {
         "pergunta": "Um comodo da casa foi banido do campeonato de e-sports dos comodos, qual comodo foi banido e porque?",
         "resposta_correta": "A sala, porque ela esta usando hack",
         "programa": 117
