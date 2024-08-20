@@ -6,12 +6,12 @@ import styles from './styles.module.css'
 import data from './perguntas.json'
 
 // These two are just helpers, they curate spring data, values that are later being interpolated into css
-const to = (i: number) => ({
+const to = (i: number, max: number) => ({
   x: 0,
-  y: i * -1,
+  y: (i * (-100 / max)),
   scale: 1,
   rot: -10 + Math.random() * 10,
-  delay: i * 100,
+  delay: i * 50,
 })
 const from = (_i: number) => ({ x: 0, rot: 0, scale: 1.5, y: -1000 })
 // This is being used down there in the view, it interpolates rotation and scale into a css transform
@@ -33,7 +33,7 @@ function Deck({perguntas}) {
   const [cards, setCard] = useState(perguntas)
   const [gone] = useState(() => new Set()) // The set flags all the cards that are flicked out
   const [props, api] = useSprings(cards.length, i => ({
-    ...to(i),
+    ...to(i, cards.length),
     from: from(i),
   })) // Create a bunch of springs using the helpers above
   const [mostrarResultado, setMostrarResultado] = useState(false)
