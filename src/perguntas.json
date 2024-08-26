@@ -1,5 +1,21 @@
 [
     {
+        "pergunta": "Como se faz um nó com duas motos?",
+        "resposta_correta": "Você pega duas YAMAHA",
+        "programa": 119,
+        "marijokes": true
+    },
+    {
+        "pergunta": "Pra qual lugar o Vidane viaja para encontrar o maior fã clube do Davi(bbb24) do mundo todo?",
+        "resposta_correta": "Para Londres, porque la é cheio de britanicos",
+        "programa": 119
+    },
+    {
+        "pergunta": "Fui numa vidente, e ela disse que esta viciada num livro sobre a capital do Tocantins, porque?",
+        "resposta_correta": "Porque ela esta viciada em ler Palmas",
+        "programa": 119
+    },
+    {
         "pergunta": "Dois trabalhadores estavam conversando e um falou assim bem baixinho \"Cada vez que eu vou trabalhar eu me escondo\" e ou outro perguntou \"Porque?\" \"Porque um bom trabalhador é difícil de encontrar\"",
         "resposta_correta": "",
         "programa": 118,
@@ -474,9 +490,20 @@
         "programa": 91
     },
     {
-        "pergunta": "Esse Ep. não teve vidanigma, mas, como sabemos que a Harmonia do Samba estava na diretoria do PSG em 2017?",
-        "resposta_correta": "Porque eles estão só \"Vem Ney Ney, Ney Ney vem Ney Ney\"",
+        "pergunta": "Porque que o Luffy não gosta de pedir pizza?",
+        "resposta_correta": "Porque sobra, ele so quer One Piece",
         "programa": 90,
+        "expecial": true
+    },
+    {
+        "pergunta": "Uma ovelha e um papagaio eram super amigos e a adoravam sair pra jantar, qual comida eles mais gostam de comer juntos?",
+        "resposta_correta": "Eles gostam de avelã",
+        "programa": 90
+    },
+    {
+        "pergunta": "Como sabemos que a Harmonia do Samba estava na diretoria do PSG em 2017?",
+        "resposta_correta": "Porque eles estão só \"Vem Ney Ney, Ney Ney vem Ney Ney\"",
+        "programa": "-",
         "expecial": true
     },
     {
@@ -530,23 +557,68 @@
         "programa": 85
     },
     {
-        "pergunta": "Esse Ep. não teve vidanigma",
-        "resposta_correta": "Nada de ponto",
+        "pergunta": "Qual a emissora de TV que o Saci Perere sempre aparece?",
+        "resposta_correta": "Ele sempre aparece na Rede Moinho",
         "programa": 84
     },
     {
-        "pergunta": "Esse Ep. não teve vidanigma, mas é o Ep. que DESCOBRIMOS que coincidentemente o Doug não faz aniversário no mesmo dia que o filho da Maryjoe",
-        "resposta_correta": "Nada de ponto",
+        "pergunta": "Porque o gado, que estavam viajando numa carreta de caminhão, começou a dançar?",
+        "resposta_correta": "Porque era um caminhão de Muuuu dança",
+        "programa": 84
+    },
+    {
+        "pergunta": "Porque os pilotos sempre completam o album de figurinha?",
+        "resposta_correta": "Porque uma das coisas que eles mais gostam são de cola",
+        "programa": 84
+    },
+    {
+        "pergunta": "Como o faraó perdeu todo seu dinheiro?",
+        "resposta_correta": "Ele entrou num esquema de pirâmide",
+        "programa": 84
+    },
+    {
+        "pergunta": "Qual o queijo que não suporta ouvir funk?",
+        "resposta_correta": "É o roquefort",
         "programa": 83
     },
     {
-        "pergunta": "Esse Ep. não teve vidanigma",
-        "resposta_correta": "Nada de ponto",
+        "pergunta": "Qual dos frios é o mais apludido de todos?",
+        "resposta_correta": "É o presunto de Palmas",
+        "programa": 83
+    },
+    {
+        "pergunta": "Qual o queijo que os vampiros não gostam?",
+        "resposta_correta": "É o queijo comAlho",
+        "programa": 83
+    },
+    {
+        "pergunta": "Quem é o sucessor, que trabalha em podcast, do Guillermo del Toro?",
+        "resposta_correta": "É o Douglas del Bezerra",
         "programa": 82
     },
     {
-        "pergunta": "Esse Ep. não teve vidanigma",
-        "resposta_correta": "Nada de ponto",
+        "pergunta": "Qual o feijão favorito dos fãs do Luva de Pedreiro?",
+        "resposta_correta": "O feijão tropeiro",
+        "programa": 82
+    },
+    {
+        "pergunta": "Qual a comida favorita da Sula Miranda?",
+        "resposta_correta": "O arroz carreteiro",
+        "programa": 82
+    },
+    {
+        "pergunta": "Duas pickups se encontram para jantar num date, mas elas foram num lugar para comer a vontade, onde elas foram jantar?",
+        "resposta_correta": "Elas foram num roDiesel",
+        "programa": 82
+    },
+    {
+        "pergunta": "Porque os amigos de uma ex-primeira dama da Argentina, sempre ficavam chateados quando chamavam ela pro role?",
+        "resposta_correta": "Porque ela Evita",
+        "programa": 81
+    },
+    {
+        "pergunta": "A cantora Gal Costa canto a canção Asa Branca em homenagem à alguem do Jovem Nerd, quem?",
+        "resposta_correta": "Foi ao AzaGal",
         "programa": 81
     },
     {
@@ -565,8 +637,13 @@
         "programa": 80
     },
     {
-        "pergunta": "Esse Ep. não teve vidanigma, mas é nesse Ep. que o Vidane celeram o 1 ano do lançamento do Vai Te Catar",
-        "resposta_correta": "Nada de ponto",
+        "pergunta": "Qual carrapato se sente importante demais para ficar no saco do Jovem Nerd?",
+        "resposta_correta": "O carrapato estrela",
+        "programa": 79
+    },
+    {
+        "pergunta": "Um herói inglês, é uma a fusão de um frango gigante e ser humano, de que cidade ele veio?",
+        "resposta_correta": "MenChester",
         "programa": 79
     },
     {
