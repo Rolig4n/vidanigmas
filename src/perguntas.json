@@ -1,5 +1,22 @@
 [
     {
+        "pergunta": "Qual criatura mitológica é conterranea da Mary Joe?",
+        "resposta_correta": "É o monstro do lago Messi",
+        "programa": 120,
+        "expecial": true
+    },
+    {
+        "pergunta": "A galinha subiu no pulero e botou um ovo que caiu e quebrou, ai ela subiu mais alto, botou outro ovo que caiu e quebrou. Quando ela ia botar o terceiro o galo chega e fala \"Para galinha, porque você não desce do pulero pra botar o ovo?\" e ela \"Porque hoje eu to botando pra quebrar\"?",
+        "resposta_correta": "",
+        "programa": 120,
+        "marijokes": true
+    },
+    {
+        "pergunta": "Qual bixo mitológico pequenininho, é amigo dos brinquedos do Toy Story?",
+        "resposta_correta": "É o do Andy",
+        "programa": 120
+    },
+    {
         "pergunta": "Como se faz um nó com duas motos?",
         "resposta_correta": "Você pega duas YAMAHA",
         "programa": 119,
@@ -492,8 +509,7 @@
     {
         "pergunta": "Porque que o Luffy não gosta de pedir pizza?",
         "resposta_correta": "Porque sobra, ele so quer One Piece",
-        "programa": 90,
-        "expecial": true
+        "programa": 90
     },
     {
         "pergunta": "Uma ovelha e um papagaio eram super amigos e a adoravam sair pra jantar, qual comida eles mais gostam de comer juntos?",
@@ -503,8 +519,7 @@
     {
         "pergunta": "Como sabemos que a Harmonia do Samba estava na diretoria do PSG em 2017?",
         "resposta_correta": "Porque eles estão só \"Vem Ney Ney, Ney Ney vem Ney Ney\"",
-        "programa": "-",
-        "expecial": true
+        "programa": "-"
     },
     {
         "pergunta": "Qual música brasileira que conta a historia de um irmão da igreja que comprou um carro novo e vai doar pro pastor?",
