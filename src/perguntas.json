@@ -1,5 +1,21 @@
 [
     {
+        "pergunta": "Qual é o cantor de samba mais flexível?",
+        "resposta_correta": "É o Xande de Pilates",
+        "programa": 121
+    },
+    {
+        "pergunta": "Qual ator da Globo, que sempre que você vai visitar a casa dele, toda vez ela vai mais para tras?",
+        "resposta_correta": "É o Juliano CasaRé",
+        "programa": 121
+    },
+    {
+        "pergunta": "Dois mineiros, foram pro Egito, e quando chegaram la um pergunto pro outro \"Uai, e esses bixos gigantes aqui? Será que eles estão dormindo?\" ai o outro respondeu \"Não, aqui ta escrito que esfinge!\". ",
+        "resposta_correta": "",
+        "programa": 121,
+        "marijokes": true
+    },
+    {
         "pergunta": "Qual criatura mitológica é conterranea da Mary Joe?",
         "resposta_correta": "É o monstro do lago Messi",
         "programa": 120,
