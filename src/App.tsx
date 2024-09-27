@@ -3,7 +3,7 @@ import { useSprings, animated, to as interpolate } from '@react-spring/web'
 import { useDrag } from 'react-use-gesture'
 import Pergunta from './pergunta'
 import styles from './styles.module.css'
-import data from './perguntas.json'
+import data from './vidanigmas.json'
 
 // These two are just helpers, they curate spring data, values that are later being interpolated into css
 const to = (i: number, max: number) => ({
