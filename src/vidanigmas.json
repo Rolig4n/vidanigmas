@@ -1,5 +1,21 @@
 [
     {
+        "pergunta": "Um funcionário entre na sala do chefe e diz \"Chefe, você vai ter que me dar um aumento, já tem 3 companhias atrás de mim!\" e o chefe pergunta \"Quais empresas?\" \"A de agua, a de gás e a de luz\"",
+        "resposta_correta": "",
+        "programa": 127,
+        "marijokes": true
+    },
+    {
+        "pergunta": "Uma carroça corria e bruscamente virava para trás, vinha correndo e virava para trás, porquê?",
+        "resposta_correta": "Porque era uma carroça de cavalo de pau",
+        "programa": 127
+    },
+    {
+        "pergunta": "Porque o amigo do Shrek não ouve o Mau Acompanhado?",
+        "resposta_correta": "Porque ele é burro",
+        "programa": 127
+    },
+    {
         "pergunta": "Dois amigos estavam juntos em silencio mexendo no celular, um vira e diz \"Você jogou o jogo do tigrinho?\" \"Não, eu prefiro o site do cavalo\" \"Qual é o site do cavalo?\" \"É www.cavalo .com .com .com .com .com .com",
         "resposta_correta": "🐴🐴🐴",
         "programa": 126,
