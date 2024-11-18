@@ -26,7 +26,8 @@ function embaralharPerguntas(data) {
     data[i] = data[j];
     data[j] = temp;
   }
-  return data;
+  // Return the first 100 items from the shuffled array
+  return data.slice(0, 100);
 }
 
 function Deck({perguntas}) {
