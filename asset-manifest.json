@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/vidanigmas/static/css/main.61354c8f.css",
-    "main.js": "/vidanigmas/static/js/main.ea5fcd72.js",
+    "main.css": "/vidanigmas/static/css/main.76ede271.css",
+    "main.js": "/vidanigmas/static/js/main.582187c3.js",
     "static/js/453.40bc2708.chunk.js": "/vidanigmas/static/js/453.40bc2708.chunk.js",
     "static/media/background.jpg": "/vidanigmas/static/media/background.95633edfa162c9115d2a.jpg",
     "static/media/vidanigmas.mp3": "/vidanigmas/static/media/vidanigmas.7e2b805d13d44976f430.mp3",
@@ -13,12 +13,12 @@
     "static/media/pause-solid.svg": "/vidanigmas/static/media/pause-solid.a4ac976dfb0b3f49db5e9ed727d40d57.svg",
     "static/media/1-solid.svg": "/vidanigmas/static/media/1-solid.0445edcf5907896df7dc4cec09d269b8.svg",
     "static/media/play-solid.svg": "/vidanigmas/static/media/play-solid.402440c62d2ef5cf7fcbc40433295518.svg",
-    "main.61354c8f.css.map": "/vidanigmas/static/css/main.61354c8f.css.map",
-    "main.ea5fcd72.js.map": "/vidanigmas/static/js/main.ea5fcd72.js.map",
+    "main.76ede271.css.map": "/vidanigmas/static/css/main.76ede271.css.map",
+    "main.582187c3.js.map": "/vidanigmas/static/js/main.582187c3.js.map",
     "453.40bc2708.chunk.js.map": "/vidanigmas/static/js/453.40bc2708.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.61354c8f.css",
-    "static/js/main.ea5fcd72.js"
+    "static/css/main.76ede271.css",
+    "static/js/main.582187c3.js"
   ]
 }
