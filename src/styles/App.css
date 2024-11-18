@@ -8,7 +8,7 @@ body {
   font-family: system-ui;
   margin: 0;
   color: whitesmoke;
-  background-image: url("./asset/background.jpg");
+  background-image: url("../asset/background.jpg");
   background-size: cover; /* Cover the entire container */
   background-position: top center; /* Center the image */
 }

@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from "react";
 import styled from "styled-components";
-import "./index.css";
-import { ReactComponent as Play} from "./asset/play-solid.svg";
-import { ReactComponent as Pause} from "./asset/pause-solid.svg";
+import "../styles/index.css";
+import { ReactComponent as Play} from "../asset/play-solid.svg";
+import { ReactComponent as Pause} from "../asset/pause-solid.svg";
 
 const useAudio = url => {
   const [audio] = useState(new Audio(url));

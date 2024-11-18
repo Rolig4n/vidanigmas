@@ -1,7 +1,7 @@
 import React from "react";
 import { ExplodingButtons } from "./components/ExplodingButtons";
-import "./index.css";
-import styles from './styles.module.css'
+import "./styles/index.css";
+import styles from './styles/styles.module.css'
 import { ReactComponent as Instagram} from "./asset/instagram-brands-solid.svg"
 import { ReactComponent as Question} from "./asset/question-solid.svg"
 import { ReactComponent as Num1} from "./asset/1-solid.svg"

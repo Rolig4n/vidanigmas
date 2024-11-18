@@ -1,8 +1,8 @@
 import React, { useState } from 'react'
 import { useSprings, animated, to as interpolate } from '@react-spring/web'
 import { useDrag } from 'react-use-gesture'
-import Pergunta from './pergunta'
-import styles from './styles.module.css'
+import Pergunta from './components/pergunta'
+import styles from './styles/styles.module.css'
 import data from './vidanigmas.json'
 
 // These two are just helpers, they curate spring data, values that are later being interpolated into css

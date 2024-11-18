@@ -1,14 +1,15 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import './App.css'
+import './styles/App.css'
 import App from './App.tsx'
 import Info from './info.tsx'
-import Music from './music.js'
+import Music from './components/music.js'
 import vidanigmas from './asset/vidanigmas.mp3'
 import reportWebVitals from './reportWebVitals.js'
 
 const rootElement = document.getElementById('root')!
-ReactDOM.createRoot(rootElement).render(
+const root = ReactDOM.createRoot(rootElement)
+root.render(
   <React.StrictMode>
     <Music url={vidanigmas}/>
     <App />
