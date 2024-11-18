@@ -2,7 +2,7 @@ import React from 'react'
 import ReactDOM from 'react-dom/client'
 import './styles/App.css'
 import App from './App.tsx'
-import Info from './info.tsx'
+// import Info from './info.tsx'
 import Music from './components/music.js'
 import vidanigmas from './asset/vidanigmas.mp3'
 import reportWebVitals from './reportWebVitals.js'
@@ -13,7 +13,7 @@ root.render(
   <React.StrictMode>
     <Music url={vidanigmas}/>
     <App />
-    <Info />
+    {/* <Info /> */}
   </React.StrictMode>
 )
 
