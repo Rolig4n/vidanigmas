@@ -3,1379 +3,1608 @@
         "pergunta": "Joãzinho tava com muito problema para dormir, foi no médico e disse pra ele \"Doutor, 5 dias que estou sonhando com formigas jogando futebol\" ai o médico deu um remédio e disse \"Toma isso que hoje você vai dormir bem\" e ele respondeu \"Hoje???Tá maluco, hoje é a final!!!\"",
         "resposta_correta": "",
         "programa": 128,
-        "marijokes": true
+        "tipo": 2
     },
     {
         "pergunta": "Vi que depois do atentado em Brasília, encontraram uma nova bomba la no senado, vocês sabem qual era a bomba?",
         "resposta_correta": "Era bombinha do pau do Kajuru",
-        "programa": 128
+        "programa": 128,
+        "tipo": 1
     },
     {
         "pergunta": "Sabe porque quando você se alimenta mal, você corre o risco de pegar uma doença da ruas?",
         "resposta_correta": "Porque pode dar uma gaStreet",
-        "programa": 128
+        "programa": 128,
+        "tipo": 1
     },
     {
         "pergunta": "Um funcionário entre na sala do chefe e diz \"Chefe, você vai ter que me dar um aumento, já tem 3 companhias atrás de mim!\" e o chefe pergunta \"Quais empresas?\" \"A de agua, a de gás e a de luz\"",
         "resposta_correta": "",
         "programa": 127,
-        "marijokes": true
+        "tipo": 2
     },
     {
         "pergunta": "Uma carroça corria e bruscamente virava para trás, vinha correndo e virava para trás, porquê?",
         "resposta_correta": "Porque era uma carroça de cavalo de pau",
-        "programa": 127
+        "programa": 127,
+        "tipo": 1
     },
     {
         "pergunta": "Porque o amigo do Shrek não ouve o Mau Acompanhado?",
         "resposta_correta": "Porque ele é burro",
-        "programa": 127
+        "programa": 127,
+        "tipo": 1
     },
     {
         "pergunta": "Dois amigos estavam juntos em silencio mexendo no celular, um vira e diz \"Você jogou o jogo do tigrinho?\" \"Não, eu prefiro o site do cavalo\" \"Qual é o site do cavalo?\" \"É www.cavalo .com .com .com .com .com .com",
         "resposta_correta": "🐴🐴🐴",
         "programa": 126,
-        "expecial": true
+        "tipo": 3
     },
     {
         "pergunta": "Chifre é igual anemia, só tem quem não come direito!",
         "resposta_correta": "",
         "programa": 126,
-        "marijokes": true
+        "tipo": 2
     },
     {
         "pergunta": "O que é o que é, aceso como uma tocha, firme como uma rocha, tem casa de tecido e curte o fruto proibido",
         "resposta_correta": "É o pau do Kajuru",
-        "programa": 126
+        "programa": 126,
+        "tipo": 1
     },
     {
         "pergunta": "Qual a página de fofoca favorita dos animais que botão ovos?",
         "resposta_correta": "A Choquei😲",
-        "programa": 126
+        "programa": 126,
+        "tipo": 1
     },
     {
         "pergunta": "Tinha um cara que era muito fã de rock, muito fã de Red Hot Chilli Pepers, comprava tudo que era item, mas um dia ele foi fazer uma tatuagem, chegou lá \"Quanto é pra tatuar essa banda aqui?\" \"é tanto, mas vai fazer onde? no braço, na perna?\" \"Eu vou fazer no meu pinto\" ai o tatuador \"que isso, ai é muito doido\" \"Não interessa, o Red Hot Chilli Pepers merece\" ai ele tiro a roupa eo tatuador disse \"O senhor não gostaria de fazer do 'U2'🤏?\"",
         "resposta_correta": "",
         "programa": 125,
-        "marijokes": true
+        "tipo": 2
     },
     {
         "pergunta": "Qual a fruta favorita do personagem de videogame Bomberman?",
         "resposta_correta": "É a banana, de dinamite🧨",
-        "programa": 125
+        "programa": 125,
+        "tipo": 1
     },
     {
         "pergunta": "Qual a fruta favorita do cirurgião plástico?",
         "resposta_correta": "É a maçã do rosto",
-        "programa": 125
+        "programa": 125,
+        "tipo": 1
     },
     {
         "pergunta": "Porque a casa da rainha do Pop está sempre suja?",
         "resposta_correta": "Porque ela é uma Mádona de casa",
-        "programa": 125
+        "programa": 125,
+        "tipo": 1
     },
     {
         "pergunta": "Meus amigos se encontraram depois de anos, ai um falo pro outro \"Casei, separei, e já fizemos a partilha dos bens\" e o outro \"E as crianças?\" \"o juiz disse que ficaria com aquele que o mais bem recebeu\" \"Então, ficaram com a mãe?\" \"Não, ficaram com o advogado\"",
         "resposta_correta": "",
         "programa": 124,
-        "marijokes": true
+        "tipo": 2
     },
     {
         "pergunta": "O que é o que é, está apontado pro céu, mas não vê estrela, faz hora extra, mas não nunca pede férias, tem 1 olho cego e está em outro olho cego?",
         "resposta_correta": "É o pau do Kajuru",
-        "programa": 124
+        "programa": 124,
+        "tipo": 1
     },
     {
         "pergunta": "Porque que quando você está perdido, você tem que pôr a mão entre a boca e o nariz?",
         "resposta_correta": "Porque quando você está perdido tem buço lá!",
-        "programa": 124
+        "programa": 124,
+        "tipo": 1
     },
     {
         "pergunta": "Mari Joe conto a piada do coala e da lagartixa, isso é enorme, e igual o outro não cabe no card!",
         "resposta_correta": "",
         "programa": 123,
-        "marijokes": true
+        "tipo": 2
     },
     {
         "pergunta": "Qual o legume mais triste que existe?",
         "resposta_correta": "É o grão de bico",
-        "programa": 123
+        "programa": 123,
+        "tipo": 1
     },
     {
         "pergunta": "A CIA resolveu consultar um agente. Após uma serie de entrevistar e pesquisas conseguiram 3 candidatos, um francês, um inglês e um brasileiro. Pra prova final, os agentes da CIA colocaram os candidatos diante de uma porta metálica e os entregaram uma pistola \"Queremos saber se vão seguir as ordens independente das circunstancias\", disseram pro francês \"Atrás da porta está sua sogra, você deve matá-la\" e ele responde \"Eu jamais mataria minha sogra\" \"Então você não serve\", entregaram a arma para o inglês, ele caminhou até a sala e depois de 5 minutos ele volta \"Eu tentei, mas não consigo matar minha sogra\" \"Você também não serve, vá embora\" chego em fim a vez do brasileiro, deram as mesmas instruções, ele entrou na sala e se ouviu um monte de tiro, estrondos e gritos e depois silencio. O brasileiro sai e diz \"Bem que podiam ter aviso que os tiros eram de festim, tive que matar a desgraçada na mão\"",
         "resposta_correta": "",
         "programa": 122,
-        "marijokes": true
+        "tipo": 2
     },
     {
         "pergunta": "Qual grande felino que quando vai rugir faz \"RAAAAWWbestado\"",
         "resposta_correta": "É o jaquatiririca",
-        "programa": 122
+        "programa": 122,
+        "tipo": 1
     },
     {
         "pergunta": "Qual o site de apostas favoritos dos britânicos?",
         "resposta_correta": "O ElizaBET",
-        "programa": 122
+        "programa": 122,
+        "tipo": 1
     },
     {
         "pergunta": "Qual é o cantor de samba mais flexível?",
         "resposta_correta": "É o Xande de Pilates",
-        "programa": 121
+        "programa": 121,
+        "tipo": 1
     },
     {
         "pergunta": "Qual ator da Globo, que sempre que você vai visitar a casa dele, toda vez ela vai mais para trás?",
         "resposta_correta": "É o Juliano CasaRé",
-        "programa": 121
+        "programa": 121,
+        "tipo": 1
     },
     {
         "pergunta": "Dois mineiros, foram pro Egito, e quando chegaram lá um pergunto pro outro \"Uai, e esses bichos gigantes aqui? Será que eles estão dormindo?\" ai o outro respondeu \"Não, aqui está escrito que esfinge!\". ",
         "resposta_correta": "",
         "programa": 121,
-        "marijokes": true
+        "tipo": 2
     },
     {
         "pergunta": "Qual criatura mitológica é conterrânea da Mary Joe?",
         "resposta_correta": "É o monstro do lago Messi",
         "programa": 120,
-        "expecial": true
+        "tipo": 3
     },
     {
         "pergunta": "A galinha subiu no poleiro e botou um ovo que caiu e quebrou, ai ela subiu mais alto, botou outro ovo que caiu e quebrou. Quando ela ia botar o terceiro o galo chega e fala \"Para galinha, porque você não desce do poleiro pra botar o ovo?\" e ela \"Porque hoje eu to botando pra quebrar\"?",
         "resposta_correta": "",
         "programa": 120,
-        "marijokes": true
+        "tipo": 2
     },
     {
         "pergunta": "Qual bicho mitológico pequenininho, é amigo dos brinquedos do Toy Story?",
         "resposta_correta": "É o do Andy",
-        "programa": 120
+        "programa": 120,
+        "tipo": 1
     },
     {
         "pergunta": "Como se faz um nó com duas motos?",
         "resposta_correta": "Você pega duas YAMAHA",
         "programa": 119,
-        "marijokes": true
+        "tipo": 2
     },
     {
         "pergunta": "Pra qual lugar o Vidane viaja para encontrar o maior fã clube do Davi(bbb24) do mundo todo?",
         "resposta_correta": "Para Londres, porque lá é cheio de britânicos",
-        "programa": 119
+        "programa": 119,
+        "tipo": 1
     },
     {
         "pergunta": "Fui numa vidente, e ela disse que esta viciada num livro sobre a capital do Tocantins, porque?",
         "resposta_correta": "Porque ela está viciada em ler Palmas",
-        "programa": 119
+        "programa": 119,
+        "tipo": 1
     },
     {
         "pergunta": "Dois trabalhadores estavam conversando e um falou assim bem baixinho \"Cada vez que eu vou trabalhar eu me escondo\" e ou outro perguntou \"Porque?\" \"Porque um bom trabalhador é difícil de encontrar\"",
         "resposta_correta": "",
         "programa": 118,
-        "marijokes": true
+        "tipo": 2
     },
     {
         "pergunta": "Sabe como chamam gente velha na Apple?",
         "resposta_correta": "iDoso",
-        "programa": 118
+        "programa": 118,
+        "tipo": 1
     },
     {
         "pergunta": "Qual a parte mais velha do carro?",
         "resposta_correta": "É o Vô lante",
-        "programa": 118
+        "programa": 118,
+        "tipo": 1
     },
     {
         "pergunta": "Um cômodo da casa foi banido do campeonato de e-sports dos cômodos, qual cômodo foi banido e porquê?",
         "resposta_correta": "A sala, porque ela está usando hack",
-        "programa": 117
+        "programa": 117,
+        "tipo": 1
     },
     {
         "pergunta": "Porque que o cantor Milton Nascimento fica muito bravo quando ele joga peteca?",
         "resposta_correta": "Porque ele vira o badMilton",
-        "programa": 117
+        "programa": 117,
+        "tipo": 1
     },
     {
         "pergunta": "Qual povo originário americano era viciado em ir na academia?",
         "resposta_correta": "São os máia",
-        "programa": 117
+        "programa": 117,
+        "tipo": 1
     },
     {
         "pergunta": "Três amigos estavam hospedados em Aspem, quando o aquecedor da casa quebrou, para não morrem de frio eles decidiram dormir todos juntinhos. No dia seguinte, o que dormiu no lado direito disse, \"Eu tive um sonho muito interessante, sonhei que estavam me masturbando\" o amigo que dormiu do lado esquerdo se assustou e disse \"Eu não acredito, sonhei o mesmo\" o que dormiu no meio respondeu desapontado \"Aaah, eu só sonhei que esquiava a noite toda\"",
         "resposta_correta": "",
         "programa": 117,
-        "marijokes": true
+        "tipo": 2
     },
     {
         "pergunta": "Qual inseto o rico não aceita ter em casa de jeito nenhum?",
         "resposta_correta": "É a barata",
-        "programa": 116
+        "programa": 116,
+        "tipo": 1
     },
     {
         "pergunta": "Qual inseto o Jovem Nerd não aceita ter em casa de jeito nenhum?",
         "resposta_correta": "O louva deus",
-        "programa": 116
+        "programa": 116,
+        "tipo": 1
     },
     {
         "pergunta": "Qual inseto é o melhor presente que uma menina pode dar para a coleguinha?",
         "resposta_correta": "É for miga",
-        "programa": 116
+        "programa": 116,
+        "tipo": 1
     },
     {
         "pergunta": "Porque o Mau se irritou e raspou logo o cabelo?",
         "resposta_correta": "Porque sempre ficava Mau cortado",
         "programa": 116,
-        "marijokes": true
+        "tipo": 2
     },
     {
         "pergunta": "Porque a faxineira não luta caratê?",
         "resposta_correta": "Porque ela luta ca poeira",
         "programa": 116,
-        "marijokes": true
+        "tipo": 2
     },
     {
         "pergunta": "Qual medalha que o atleta galináceo não quer ganhar em Paris?",
         "resposta_correta": "O medalão de franbacon",
-        "programa": 115
+        "programa": 115,
+        "tipo": 1
     },
     {
         "pergunta": "Porque o Mickey Mouse não vai trabalhar na eleição americana?",
         "resposta_correta": "Para que o Donald trampe",
-        "programa": 115
+        "programa": 115,
+        "tipo": 1
     },
     {
         "pergunta": "Porque os homens muito homens mesmo, preferem comer batata do que creme de avelã?",
         "resposta_correta": "Porque eles são mais raiz, né",
-        "programa": 114
+        "programa": 114,
+        "tipo": 1
     },
     {
         "pergunta": "Rolou uma festa da louça, nunca canto estavam as taças, no bar as canecas, e ai estavam os pires pra escolher seus salgadinhos, o João escolheu kibe, Fernando escolheu kibe, Juliano escolheu kibe, o Alexandre escolheu coxinha. Porque ale escolheu coxinha?",
         "resposta_correta": "Porque ele escolheu só pra contrariar",
-        "programa": 114
+        "programa": 114,
+        "tipo": 1
     },
     {
         "pergunta": "O que o pintinho caipira disse pro outro pintinho? \"Pir\"",
         "programa": 114,
-        "marijokes": true
+        "tipo": 2
     },
     {
         "pergunta": "Uma construtora de obras, contratou uma passista chamada Carina pra ir em todas suas obras, porque?",
         "resposta_correta": "Porque toda obra precisa que a Ca Samba",
-        "programa": 113
+        "programa": 113,
+        "tipo": 1
     },
     {
         "pergunta": "Tinha um coronel da aeronáutica com diabetes, que negou uma promoção no trabalho, porque?",
         "resposta_correta": "Porque ele não queria ser brigadeiro",
-        "programa": 113
+        "programa": 113,
+        "tipo": 1
     },
     {
         "pergunta": "Um caipira chega à casa de um amigo que está vendo TV e pergunta \"Eai, firme?\" o outro reponde \"Não, futibor\"",
         "programa": 113,
-        "marijokes": true
+        "tipo": 2
     },
     {
         "pergunta": "Porque o surfista baixinho é contra fazer pipoca na panela no fogão?",
         "resposta_correta": "Porque ele só surfa em micro-ondas",
-        "programa": 112
+        "programa": 112,
+        "tipo": 1
     },
     {
         "pergunta": "Tem um jogador de vôlei com a conta bancaria estourada, ele fez 1 ponto mais não comemoro, porque?",
         "resposta_correta": "Porque ele teria que fazer 1 saque",
-        "programa": 112
+        "programa": 112,
+        "tipo": 1
     },
     {
         "pergunta": "A cidade mais alegre da França será Pári, e a mais triste?",
         "resposta_correta": "Pá chora",
-        "programa": 112
+        "programa": 112,
+        "tipo": 1
     },
     {
         "pergunta": "Um jornalista virou jogador de vôlei, qual a melhor coisa que ele faz?",
         "resposta_correta": "Ele da boas manchetes",
         "programa": 112,
-        "expecial": true
+        "tipo": 3
     },
     {
         "pergunta": "Porque a jogadora de vôlei não consegue mandar mensagem pro jogador de vôlei?",
         "resposta_correta": "Porque ele bloqueou ela",
-        "programa": 112
+        "programa": 112,
+        "tipo": 1
     },
     {
         "pergunta": "Qual a semelhança entre vôlei, internet e pescaria?",
         "resposta_correta": "A rede",
         "programa": 112,
-        "expecial": true
+        "tipo": 3
     },
     {
         "pergunta": "Se quero ver um esporte e ao mesmo tempo estar no judiciário, qual esporte que eu vô?",
         "resposta_correta": "Vô lei",
         "programa": 112,
-        "expecial": true
+        "tipo": 3
     },
     {
         "pergunta": "Qual esporte o Davi do BB não joga?",
         "resposta_correta": "O brotcha",
         "programa": 112,
-        "expecial": true
+        "tipo": 3
     },
     {
         "pergunta": "Qual o iogurte favorito dos internautas?",
         "resposta_correta": "O Danet",
-        "programa": 111
+        "programa": 111,
+        "tipo": 1
     },
     {
         "pergunta": "Um cara chegou num velório e pergunta \"Qual a senha do WIFI?\", e um parente incomodado falo \"Respeite o falecido!\" e ele pergunto \"É tudo junto?\"?",
         "programa": 111,
-        "marijokes": true
+        "tipo": 2
     },
     {
         "pergunta": "O que o tatu bola disse quando ele chegou no pânico no meio do milharal?",
         "resposta_correta": "Boa milhassa",
-        "programa": 110
+        "programa": 110,
+        "tipo": 1
     },
     {
         "pergunta": "Porque o açúcar já teve problemas com a lei?",
         "resposta_correta": "Porque ele estava em cana",
-        "programa": 110
+        "programa": 110,
+        "tipo": 1
     },
     {
         "pergunta": "Uma menina ia casa, o pai dela era um manjador e viu o noivo mijando no quintal, ficou apavorado, chamou a filha e disse não podia casar com o cara, e a filha \"Mas porque pai?\" \"Você tem que desmanchar essa casamento agora, eu vi ele mijando, e ele tem tatuado nambuco no pinto\" \"meu deus do céu pai\", ela foi lá, terminou com ele e triste perguntou do porquê \"Meu pai viu sua tatuagem\" \"Ele viu nem metade, está escrito, 'Saudades de Pernambuco'\"?",
         "programa": 110,
-        "marijokes": true
+        "tipo": 2
     },
     {
         "pergunta": "A irmã da minha mãe, botou arruda no vaso e amarro com nó de cadarço e desde então eu não consigo dizer não pra ela, porque?",
         "resposta_correta": "Porque depois disso é só sim pa tia",
-        "programa": 109
+        "programa": 109,
+        "tipo": 1
     },
     {
         "pergunta": "Porque a salsicha precisa urgentemente de um bom advogado?",
         "resposta_correta": "Porque se trata de um alimento Ultra processado",
-        "programa": 109
+        "programa": 109,
+        "tipo": 1
     },
     {
         "pergunta": "Qual problema de pele impede de as pessoas brigarem muito no Twitter?",
         "resposta_correta": "Não brigariam se tivessem calos",
-        "programa": 108
+        "programa": 108,
+        "tipo": 1
     },
     {
         "pergunta": "Qual o presente de quatro rodas tradicionalmente trocado no dia dos namorados dos franceses?",
         "resposta_correta": "Os franceses trocam carrinhos",
-        "programa": 108
+        "programa": 108,
+        "tipo": 1
     },
     {
         "pergunta": "Porque nas festas tradicionais juninas, ninguém quer saber falar do Cristiano Ronaldo?",
         "resposta_correta": "É a época que o pessoal quer Messi",
-        "programa": 108
+        "programa": 108,
+        "tipo": 1
     },
     {
         "pergunta": "Com o que a mamãe pássaro amamenta seus filhotes?",
         "resposta_correta": "É leite ninho",
-        "programa": 107
+        "programa": 107,
+        "tipo": 1
     },
     {
         "pergunta": "Porque o cachorro quente favorito de Deus é o curitibano?",
         "resposta_correta": "Porque o cachorro quente é uma refeição di vina",
-        "programa": 107
+        "programa": 107,
+        "tipo": 1
     },
     {
         "pergunta": "Numa floresta, as formigas caprichavam muito no formigueiro, mas vinha um elefante e pisava em tudo, elas iam arrumavam, mas ainda estavam chateadas e fizeram uma reunião pra acabar com o elefante. No final decidiram que quando ele passasse pulariam nele de uma arvore e picariam ele todo, pois dito e feito, quando o elefante chegou, as formigas caíram nele só que ele se sacudiu todo e só uma ficou agarrada no seu pescoço, no desespero ela gritava \"O que que eu faço!?\" e a formigas no chão gritavam \"Enforca ele, enforca ele\"",
         "programa": 107,
-        "marijokes": true
+        "tipo": 2
     },
     {
         "pergunta": "Porque é um costume bacana, levar a garrafa de 2L pra passear?",
         "resposta_correta": "Porque você tem de passear com seu PET",
-        "programa": 106
+        "programa": 106,
+        "tipo": 1
     },
     {
         "pergunta": "Porque o exorcista, foi contrato pra trabalhar na escolinha infantil?",
         "resposta_correta": "Porque ele é especialista em mochila de criança",
-        "programa": 106
+        "programa": 106,
+        "tipo": 1
     },
     {
         "pergunta": "Porque o exorcista, foi contrato pra trabalhar na escolinha infantil?",
         "resposta_correta": "Porque ele é especialista em mochila de criança",
-        "programa": 106
+        "programa": 106,
+        "tipo": 1
     },
     {
         "pergunta": "Uma senhorinha foi ao médico com problemas de gases, \"Doutor, estou com problema de gases, graças a Deus ele são silenciosos e sem cheiro, desde que cheguei aqui soltei vários e ninguém percebeu\" e olhando pra velha deu um remédio e disse \"Volte daqui 1 semana\", 1 semana depois a idosa volta revoltada \"Doutor, não sei o que o senhor fez, mas agora os gases estão muito fedidos mas ainda silenciosos\" \"Agora que cuidamos da sua sinusite vamos cuidar da sua surdez\"",
         "programa": 106,
-        "marijokes": true
+        "tipo": 2
     },
     {
         "pergunta": "Qual o melhor lugar pra cantar e desejar feliz aniversário em alto mar?",
         "resposta_correta": "No barco a vela",
-        "programa": 105
+        "programa": 105,
+        "tipo": 1
     },
     {
         "pergunta": "No futebol do corpo humano, porque o ouvido tomou cartão amarelo?",
         "resposta_correta": "Porque ele estava fazendo cera",
-        "programa": 105
+        "programa": 105,
+        "tipo": 1
     },
     {
         "pergunta": "Porque todo mundo gosta de ser amigo do fogo?",
         "resposta_correta": "Porque tudo que ele faz ele chama",
-        "programa": 105
+        "programa": 105,
+        "tipo": 1
     },
     {
         "pergunta": "Porque o Mau se irritou e raspou logo o cabelo?",
         "resposta_correta": "Porque ficava sempre Mau cortado",
         "programa": 105,
-        "charajoes": true
+        "tipo": 4
     },
     {
         "pergunta": "Qual a novela favorita de um taurino da realeza?",
         "resposta_correta": "É a rei do gado",
         "programa": 105,
-        "charajoes": true
+        "tipo": 4
     },
     {
         "pergunta": "Qual é o artista favorito do maior astrólogo do mundo?",
         "resposta_correta": "A Ariana Grande",
         "programa": 105,
-        "charajoes": true
+        "tipo": 4
     },
     {
         "pergunta": "Qual a vozinha que combina muito com strogonoff e batata palha?",
         "resposta_correta": "A Rose",
         "programa": 105,
-        "charajoes": true
+        "tipo": 4
     },
     {
         "pergunta": "Porque a perola vive cismada e preocupada com medo de sair de moda?",
         "resposta_correta": "Ela tem medo de ficar no ostracismo",
-        "programa": 104
+        "programa": 104,
+        "tipo": 1
     },
     {
         "pergunta": "Qual o inseto favorito dos fumantes?",
         "resposta_correta": "A cigarra",
-        "programa": 104
+        "programa": 104,
+        "tipo": 1
     },
     {
         "pergunta": "Qual o lugar turístico preferido do ariano que edita textos?",
         "resposta_correta": "Beto Carneiro Word",
         "programa": 104,
-        "charajoes": true
+        "tipo": 4
     },
     {
         "pergunta": "Porque o bandido é o cantor sertanejo favorito da galera do direito?",
         "resposta_correta": "Porque o bandido pega a lei ea viola",
-        "programa": 103
+        "programa": 103,
+        "tipo": 1
     },
     {
         "pergunta": "Qual o nome do talkshow do gato gripado?",
         "resposta_correta": "É o Conversa com o Bial",
-        "programa": 102
+        "programa": 102,
+        "tipo": 1
     },
     {
         "pergunta": "Qual o animal que chamam de esquisito que furou a orelha?",
         "resposta_correta": "É o ornitobrinco",
-        "programa": 101
+        "programa": 101,
+        "tipo": 1
     },
     {
         "pergunta": "Porque uma pessoa vivia muito triste antes de furar orelha?",
         "resposta_correta": "Porque ela usava brincos de pressão",
-        "programa": 101
+        "programa": 101,
+        "tipo": 1
     },
     {
         "pergunta": "Porque uma pessoa fica muito triste antes de comer feijão?",
         "resposta_correta": "Porque ela usa panela de pressão",
-        "programa": 101
+        "programa": 101,
+        "tipo": 1
     },
     {
         "pergunta": "Qual atriz parou de atuar para realizar seu sonho de abrir uma peixaria?",
         "resposta_correta": "A Vera Fisher",
-        "programa": 101
+        "programa": 101,
+        "tipo": 1
     },
     {
         "pergunta": "Porque o mamãozinho do nene tava cheio de areia?",
         "resposta_correta": "Era um mamão pa paia",
-        "programa": 100
+        "programa": 100,
+        "tipo": 1
     },
     {
         "pergunta": "Qual a frutinha verdinha e azedinha que é usada pra temperar a plateia num programinha de auditório?",
         "resposta_correta": "A liminha",
-        "programa": 100
+        "programa": 100,
+        "tipo": 1
     },
     {
         "pergunta": "Qual o nome do irmão doente da Hello Kitty?",
         "resposta_correta": "É o bron Kitty",
-        "programa": 99
+        "programa": 99,
+        "tipo": 1
     },
     {
         "pergunta": "Qual a ave que é um rapaz democrático?",
         "resposta_correta": "É a guy vota",
-        "programa": 99
+        "programa": 99,
+        "tipo": 1
     },
     {
         "pergunta": "Porque o namoro do espantalho acabou?",
         "resposta_correta": "Porque a paixão era fogo de palha",
-        "programa": 99
+        "programa": 99,
+        "tipo": 1
     },
     {
         "pergunta": "Se o batman é a noite, quando ele sai pra caçar bandidos qual a música que ele mais gosta de ouvir?",
         "resposta_correta": "O som da noite, as baladas, KASSINO!",
-        "programa": 99
+        "programa": 99,
+        "tipo": 1
     },
     {
         "pergunta": "Porque o soldado ficou pelado no meio do tiroteio?",
         "resposta_correta": "Pra evitar tiro a queima roupa",
-        "programa": 98
+        "programa": 98,
+        "tipo": 1
     },
     {
         "pergunta": "Qual zagueiro brasileiro é muito fã de Iron Maiden?",
         "resposta_correta": "É o Roque Júnior",
-        "programa": 98
+        "programa": 98,
+        "tipo": 1
     },
     {
         "pergunta": "Qual o peixe favorito dos ruivos?",
         "resposta_correta": "Eles gostam de sardinhas",
-        "programa": 98
+        "programa": 98,
+        "tipo": 1
     },
     {
         "pergunta": "Porque no futebol de cavalos não tem emoção?",
         "resposta_correta": "Porque sempre terminam em patadas",
-        "programa": 97
+        "programa": 97,
+        "tipo": 1
     },
     {
         "pergunta": "Qual a escritora de livros mistérios que faz a irmã da Andreia chorar?",
         "resposta_correta": "A Agatha triste",
-        "programa": 97
+        "programa": 97,
+        "tipo": 1
     },
     {
         "pergunta": "Qual o animal especialista em construir represa e fazer apostar no jogo do bicho?",
         "resposta_correta": "O castor de Andrade",
-        "programa": 97
+        "programa": 97,
+        "tipo": 1
     },
     {
         "pergunta": "Qual o sabor preferido de pizza do Azaghal?",
         "resposta_correta": "A portuguesa",
         "programa": 97,
-        "expecial": true
+        "tipo": 3
     },
     {
         "pergunta": "Sabe porque meu dragão de estimação se recusa a ficar no quintal?",
         "resposta_correta": "É um dragão de cômodo",
-        "programa": 96
+        "programa": 96,
+        "tipo": 1
     },
     {
         "pergunta": "Com quem o Homem-Aranha aprendeu empreendedorismo?",
         "resposta_correta": "Com a tia MEI",
-        "programa": 96
+        "programa": 96,
+        "tipo": 1
     },
     {
         "pergunta": "Uma noite fui acampar e no meio da noite ouvi gritos vindo da floresta \"AIAIAIAIAIAI\", quem era?",
         "resposta_correta": "Era a Vanessa na mata",
-        "programa": 96
+        "programa": 96,
+        "tipo": 1
     },
     {
         "pergunta": "Qual o principal ingrediente do strogonoff na Rússia?",
         "resposta_correta": "É o Kremlin de leite",
-        "programa": 95
+        "programa": 95,
+        "tipo": 1
     },
     {
         "pergunta": "Sabe porque sapos ouvem muito paralamas do sucesso?",
         "resposta_correta": "Porque eles adoram o uébert viana",
-        "programa": 95
+        "programa": 95,
+        "tipo": 1
     },
     {
         "pergunta": "Porque o apresentador Ratinho não tem medo de se queimar quando vai a praia?",
         "resposta_correta": "Porque ele sempre anda com o Sombra",
-        "programa": 94
+        "programa": 94,
+        "tipo": 1
     },
     {
         "pergunta": "Qual o alimento, parente do panetone, é especialista em interpretar pai solteiro?",
         "resposta_correta": "A colomba Pascal",
-        "programa": 94
+        "programa": 94,
+        "tipo": 1
     },
     {
         "pergunta": "Porque o apresentador Ratinho não tem crise de tosse?",
         "resposta_correta": "Porque ele sempre tem o Xaropinho",
-        "programa": 94
+        "programa": 94,
+        "tipo": 1
     },
     {
         "pergunta": "Qual a plataforma feita pra deixar excitadas as pessoas que são muitos fãs de sobremesas parecidas com pudim?",
         "resposta_correta": "O onlyFlans",
-        "programa": 93
+        "programa": 93,
+        "tipo": 1
     },
     {
         "pergunta": "Porque que russo tem fama de vacilão não entende as coisas direito?",
         "resposta_correta": "Porque até a capital Moscow imagina a população",
-        "programa": 93
+        "programa": 93,
+        "tipo": 1
     },
     {
         "pergunta": "Qual integrante feio da batfamilia fazia comédia no Brasil?",
         "resposta_correta": "É o BAToré",
-        "programa": 93
+        "programa": 93,
+        "tipo": 1
     },
     {
         "pergunta": "O que o Ash disse quando viu o Brock capturando um Pokémon sem roupa?",
         "resposta_correta": "Po que bola",
-        "programa": 92
+        "programa": 92,
+        "tipo": 1
     },
     {
         "pergunta": "Como se chama o segundo lugar numa competição de carecas?",
         "resposta_correta": "É o calVice campeão",
-        "programa": 92
+        "programa": 92,
+        "tipo": 1
     },
     {
         "pergunta": "Qual humorista ficou famoso por ser apenas um menino causando com as garotas em pleno carnaval?",
         "resposta_correta": "O Marcelo adNey",
-        "programa": 92
+        "programa": 92,
+        "tipo": 1
     },
     {
         "pergunta": "Qual o Pokémon de fogo mais charmoso de todos?",
         "resposta_correta": "CHARMEleon",
-        "programa": 91
+        "programa": 91,
+        "tipo": 1
     },
     {
         "pergunta": "Qual ator de vingadores que deixas as roupas mais cheirosas quando lava roupa?",
         "resposta_correta": "É o Robert Downy Jr.",
-        "programa": 91
+        "programa": 91,
+        "tipo": 1
     },
     {
         "pergunta": "Qual animal tem 3 patas?",
         "resposta_correta": "O pato não monogâmico",
-        "programa": 91
+        "programa": 91,
+        "tipo": 1
     },
     {
         "pergunta": "Qual o queijo favorito da indústria da sensualidade?",
         "resposta_correta": "É o strip Cheese",
-        "programa": 91
+        "programa": 91,
+        "tipo": 1
     },
     {
         "pergunta": "Porque que o Luffy não gosta de pedir pizza?",
         "resposta_correta": "Porque sobra, ele só quer One Piece",
-        "programa": 90
+        "programa": 90,
+        "tipo": 1
     },
     {
         "pergunta": "Uma ovelha e um papagaio eram super amigos e a adoravam sair pra jantar, qual comida eles mais gostam de comer juntos?",
         "resposta_correta": "Eles gostam de avelã",
-        "programa": 90
+        "programa": 90,
+        "tipo": 1
     },
     {
         "pergunta": "Como sabemos que a Harmonia do Samba estava na diretoria do PSG em 2017?",
         "resposta_correta": "Porque eles estão só \"Vem Ney Ney, Ney Ney vem Ney Ney\"",
-        "programa": "-"
+        "programa": "-",
+        "tipo": 1
     },
     {
         "pergunta": "Qual música brasileira que conta a história de um irmão da igreja que comprou um carro novo e vai doar pro pastor?",
         "resposta_correta": "Carrin do irmão pá da pá da da da",
-        "programa": 89
+        "programa": 89,
+        "tipo": 1
     },
     {
         "pergunta": "Qual a parte da oração Pai Nosso favorita da galera do Brasil Que Deu Certo",
         "resposta_correta": "A do Matheus eu não sei, mas a do Ciro Hamen!",
-        "programa": 89
+        "programa": 89,
+        "tipo": 1
     },
     {
         "pergunta": "Qual a maior vantagem de comer uma pizza feita pelo Mauricio?",
         "resposta_correta": "Ela vem bem Facciada",
-        "programa": 89
+        "programa": 89,
+        "tipo": 1
     },
     {
         "pergunta": "Quem é o ídolo favorito dos galos de briga no geral?",
         "resposta_correta": "É o Popo",
-        "programa": 88
+        "programa": 88,
+        "tipo": 1
     },
     {
         "pergunta": "Qual personagem de Senhor dos anéis melhores se encaixava no grupo?",
         "resposta_correta": "É o LEGOlas",
-        "programa": 87
+        "programa": 87,
+        "tipo": 1
     },
     {
         "pergunta": "Qual participante do BBB24 é muito contra a um volante do Brasil na copa de 94?",
         "resposta_correta": "É o Nizam, que ao contrário é Mazin",
-        "programa": 87
+        "programa": 87,
+        "tipo": 1
     },
     {
         "pergunta": "Porque os Vingadores não vão em um médico normal?",
         "resposta_correta": "Porque eles preferem o Doutor Estranho",
-        "programa": 86
+        "programa": 86,
+        "tipo": 1
     },
     {
         "pergunta": "Porque o Quarteto Fantástico parou de chamar o Tocha Humana pro réveillon?",
         "resposta_correta": "Porque ele solta fogos",
-        "programa": 86
+        "programa": 86,
+        "tipo": 1
     },
     {
         "pergunta": "Qual é o melhor instrumento pra tocar a música do seu despertador?",
         "resposta_correta": "É o acordeom",
-        "programa": 85
+        "programa": 85,
+        "tipo": 1
     },
     {
         "pergunta": "Qual a raça de cachorro que gosta de exercitar a leitura quando está calor?",
         "resposta_correta": "É o hot vai ler",
-        "programa": 85
+        "programa": 85,
+        "tipo": 1
     },
     {
         "pergunta": "Qual a emissora de TV que o Saci Pererê sempre aparece?",
         "resposta_correta": "Ele sempre aparece na Rede Moinho",
-        "programa": 84
+        "programa": 84,
+        "tipo": 1
     },
     {
         "pergunta": "Porque o gado, que estavam viajando numa carreta de caminhão, começou a dançar?",
         "resposta_correta": "Porque era um caminhão de Muuuu dança",
-        "programa": 84
+        "programa": 84,
+        "tipo": 1
     },
     {
         "pergunta": "Porque os pilotos sempre completam o álbum de figurinha?",
         "resposta_correta": "Porque uma das coisas que eles mais gostam são de cola",
-        "programa": 84
+        "programa": 84,
+        "tipo": 1
     },
     {
         "pergunta": "Como o faraó perdeu todo seu dinheiro?",
         "resposta_correta": "Ele entrou num esquema de pirâmide",
-        "programa": 84
+        "programa": 84,
+        "tipo": 1
     },
     {
         "pergunta": "Qual o queijo que não suporta ouvir funk?",
         "resposta_correta": "É o roquefort",
-        "programa": 83
+        "programa": 83,
+        "tipo": 1
     },
     {
         "pergunta": "Qual dos frios é o mais aplaudido de todos?",
         "resposta_correta": "É o presunto de Palmas",
-        "programa": 83
+        "programa": 83,
+        "tipo": 1
     },
     {
         "pergunta": "Qual o queijo que os vampiros não gostam?",
         "resposta_correta": "É o queijo comAlho",
-        "programa": 83
+        "programa": 83,
+        "tipo": 1
     },
     {
         "pergunta": "Quem é o sucessor, que trabalha em podcast, do Guillermo del Toro?",
         "resposta_correta": "É o Douglas del Bezerra",
-        "programa": 82
+        "programa": 82,
+        "tipo": 1
     },
     {
         "pergunta": "Qual o feijão favorito dos fãs do Luva de Pedreiro?",
         "resposta_correta": "O feijão tropeiro",
-        "programa": 82
+        "programa": 82,
+        "tipo": 1
     },
     {
         "pergunta": "Qual a comida favorita da Sula Miranda?",
         "resposta_correta": "O arroz carreteiro",
-        "programa": 82
+        "programa": 82,
+        "tipo": 1
     },
     {
         "pergunta": "Duas pick-ups se encontram para jantar num date, mas elas foram num lugar para comer a vontade, onde elas foram jantar?",
         "resposta_correta": "Elas foram num roDiesel",
-        "programa": 82
+        "programa": 82,
+        "tipo": 1
     },
     {
         "pergunta": "Porque os amigos de uma ex primeira dama da Argentina, sempre ficavam chateados quando chamavam ela pro role?",
         "resposta_correta": "Porque ela Evita",
-        "programa": 81
+        "programa": 81,
+        "tipo": 1
     },
     {
         "pergunta": "A cantora Gal Costa canto a canção Asa Branca em homenagem a alguém do Jovem Nerd, quem?",
         "resposta_correta": "Foi ao AzaGal",
-        "programa": 81
+        "programa": 81,
+        "tipo": 1
     },
     {
         "pergunta": "Qual o estilo musical que você canta para Deus?",
         "resposta_correta": "É o paGod",
-        "programa": 80
+        "programa": 80,
+        "tipo": 1
     },
     {
         "pergunta": "Qual o ritmo musical favorito dos confeiteiros?",
         "resposta_correta": "É o merengue eo bolero",
-        "programa": 80
+        "programa": 80,
+        "tipo": 1
     },
     {
         "pergunta": "Que que os gadgets da Apple e os Beatles tem em comum?",
         "resposta_correta": "Bateria fraca",
-        "programa": 80
+        "programa": 80,
+        "tipo": 1
     },
     {
         "pergunta": "Qual carrapato se sente importante demais para ficar no saco do Jovem Nerd?",
         "resposta_correta": "O carrapato estrela",
-        "programa": 79
+        "programa": 79,
+        "tipo": 1
     },
     {
         "pergunta": "Um herói inglês, é uma a fusão de um frango gigante e ser humano, de que cidade ele veio?",
         "resposta_correta": "MenChester",
-        "programa": 79
+        "programa": 79,
+        "tipo": 1
     },
     {
         "pergunta": "Qual a banda de pagode que não aceita que você ouça descalço?",
         "resposta_correta": "É a Só No Sapatinho",
-        "programa": 78
+        "programa": 78,
+        "tipo": 1
     },
     {
         "pergunta": "Qual banda de pagode é indicada pra quem tem pressão baixa?",
         "resposta_correta": "É o Catinguele, porque o cantor é Salgadinho",
-        "programa": 78
+        "programa": 78,
+        "tipo": 1
     },
     {
         "pergunta": "Qual banda pra quem gosta de trocar de casal enquanto coloca santo de cabeça pra baixo no copo d'água?",
         "resposta_correta": "O Swing e Simpatia",
-        "programa": 78
+        "programa": 78,
+        "tipo": 1
     },
     {
         "pergunta": "Qual grupo de pagode é contra a câmera digital?",
         "resposta_correta": "É o Revelação",
-        "programa": 78
+        "programa": 78,
+        "tipo": 1
     },
     {
         "pergunta": "Qual protagonista da franquia de filme \"Se eu fosse você\" é o favorito do Jovem Nerd",
         "resposta_correta": "Pro Alexandre o tony",
-        "programa": 77
+        "programa": 77,
+        "tipo": 1
     },
     {
         "pergunta": "Qual o sabor de pizza favorito do Azaghal, Deive Pazos?",
         "resposta_correta": "É a portuguesa",
-        "programa": 77
+        "programa": 77,
+        "tipo": 1
     },
     {
         "pergunta": "Qual a música favorita do Relâmpago Marquinhos no karaokê?",
         "resposta_correta": "Ele adora cantar pneu",
-        "programa": 77
+        "programa": 77,
+        "tipo": 1
     },
     {
         "pergunta": "Qual personagem do sitio do pica pau amarelo é viciado na masturbação?",
         "resposta_correta": "É o Visconde de sabuGoza",
-        "programa": 77
+        "programa": 77,
+        "tipo": 1
     },
     {
         "pergunta": "Qual o amigo favorito do Visconde",
         "resposta_correta": "O Rabicó",
-        "programa": 77
+        "programa": 77,
+        "tipo": 1
     },
     {
         "pergunta": "Quantos Michael Jackson são precisos para trocar uma lâmpada?",
         "resposta_correta": "🎶Uuum!",
         "programa": 77,
-        "expecial": true
+        "tipo": 3
     },
     {
         "pergunta": "Qual eletrodoméstico torce para você ficar calvo?",
         "resposta_correta": "É o secador de cabelo",
-        "programa": 76
+        "programa": 76,
+        "tipo": 1
     },
     {
         "pergunta": "Porque o filho do Rodrigo Goes deixou ele puto no fim do ano?",
         "resposta_correta": "Porque ele tomou bomba",
-        "programa": 76
+        "programa": 76,
+        "tipo": 1
     },
     {
         "pergunta": "Porque o Leonel Caldela não tem problema de postura?",
         "resposta_correta": "Porque ele faz RPG",
-        "programa": 76
+        "programa": 76,
+        "tipo": 1
     },
     {
         "pergunta": "Qual filhote de uma animal da fazenda era conhecido como apresentador?",
         "resposta_correta": "Era o cabrito junior",
-        "programa": 75
+        "programa": 75,
+        "tipo": 1
     },
     {
         "pergunta": "Um jogador tomou uma bolada na cara e caíram todos seus dentes de leite, qual time ele jogava?",
         "resposta_correta": "Era do Boca Juniors",
-        "programa": 75
+        "programa": 75,
+        "tipo": 1
     },
     {
         "pergunta": "Porque a gaveta estava numa situação triste?",
         "resposta_correta": "Porque ela estava em comoda",
-        "programa": 75
+        "programa": 75,
+        "tipo": 1
     },
     {
         "pergunta": "Qual animal é guia espiritual que você precisa consultar para a sua vida dar um salto?",
         "resposta_correta": "Você tem que consultar o canGuru",
-        "programa": 75
+        "programa": 75,
+        "tipo": 1
     },
     {
         "pergunta": "Qual o prato português favorito do Popo?",
         "resposta_correta": "Batatas ao murro",
-        "programa": 74
+        "programa": 74,
+        "tipo": 1
     },
     {
         "pergunta": "Qual o peixe favorito do Eri Johnson",
         "resposta_correta": "O pintado",
-        "programa": 74
+        "programa": 74,
+        "tipo": 1
     },
     {
         "pergunta": "Qual ingrediente que quando colocado no doce, causa a queda de cabelo?",
         "resposta_correta": "É o açúcar mais calvo",
-        "programa": 74
+        "programa": 74,
+        "tipo": 1
     },
     {
         "pergunta": "Qual cartão que não passa quando você tenta comprar aquela picanha com gordurinha?",
         "resposta_correta": "É o mairacard",
-        "programa": 74
+        "programa": 74,
+        "tipo": 1
     },
     {
         "pergunta": "Porque no mundo do Nerdcast RPG, ninguém consegue falar no telefone?",
         "resposta_correta": "Porque tentam ligar e sempre dá em Ghanor",
-        "programa": 74
+        "programa": 74,
+        "tipo": 1
     },
     {
         "pergunta": "Qual a posição do futebol favorita dos motoristas?",
         "resposta_correta": "É o volante",
-        "programa": 73
+        "programa": 73,
+        "tipo": 1
     },
     {
         "pergunta": "Vocês sabiam que o cantor Roberto Carlos quando mais novo era policial antes de cantar?",
         "resposta_correta": "Porque ele era jovem guarda",
-        "programa": 73
+        "programa": 73,
+        "tipo": 1
     },
     {
         "pergunta": "Qual fruta que sozinha é considerada uma baita refeição?",
         "resposta_correta": "É a mo rango",
-        "programa": 73
+        "programa": 73,
+        "tipo": 1
     },
     {
         "pergunta": "Qual a comida mexicana favorita dos fãs de anime e manga?",
         "resposta_correta": "É o taco",
-        "programa": 73
+        "programa": 73,
+        "tipo": 1
     },
     {
         "pergunta": "Qual a sobremesa que a banda capital inicial sempre faz pro seu vocalista?",
         "resposta_correta": "Pudin ouro preto",
-        "programa": 73
+        "programa": 73,
+        "tipo": 1
     },
     {
         "pergunta": "Se o Batman fosse um cachorro, qual seria o nome do seu mordomo?",
         "resposta_correta": "Auaufred",
-        "programa": 72
+        "programa": 72,
+        "tipo": 1
     },
     {
         "pergunta": "Qual atriz é na verdade não é uma mulher, mas sim várias pessoas juntas?",
         "resposta_correta": "É a Uma Turman",
-        "programa": 72
+        "programa": 72,
+        "tipo": 1
     },
     {
         "pergunta": "Porque que quando quebra o ar-condicionado da rede Globo, vira um problema pro mundo inteiro?",
         "resposta_correta": "Porque é causa do aquecimento global",
-        "programa": 72
+        "programa": 72,
+        "tipo": 1
     },
     {
         "pergunta": "Qual comida que você pede no delivery que obriga o entregador a subir até o apartamento?",
         "resposta_correta": "A pizza de Rica Perrone",
-        "programa": 71
+        "programa": 71,
+        "tipo": 1
     },
     {
         "pergunta": "Fui refogar um chocolate e começou a fazer um barulho estranho, um ritmo musical, porque?",
         "resposta_correta": "Porque quando juntei o chocolate com alho eu fiz um chocalho",
-        "programa": 71
+        "programa": 71,
+        "tipo": 1
     },
     {
         "pergunta": "Porque o macho da cabra estava sendo grosseiro com ela?",
         "resposta_correta": "Porque ele estava de bode",
-        "programa": 71
+        "programa": 71,
+        "tipo": 1
     },
     {
         "pergunta": "Qual pessoa do grupo Jovem Nerd é muito fã de calchorras fêmeas?",
         "resposta_correta": "É o Leonel Caldelas",
-        "programa": 71
+        "programa": 71,
+        "tipo": 1
     },
     {
         "pergunta": "O marido e a mulher da família Addams estavam na beira de um precipício, e uma pessoa do grupo Jovem Nerd só poderia salvar uma delas, e qual decisão ela tomou?",
         "resposta_correta": "É o Caio Gomes, salva a Mortícia",
-        "programa": 71
+        "programa": 71,
+        "tipo": 1
     },
     {
         "pergunta": "Qual o cantor brasileiro cujo o nome descreve a melhor forma de fazer a entrega de um pedido no delivery?",
         "resposta_correta": "É o Edi Moto",
-        "programa": 70
+        "programa": 70,
+        "tipo": 1
     },
     {
         "pergunta": "Qual a comida ideal para comer quando você está com jet lag",
         "resposta_correta": "É o macarrão parafuso horário",
-        "programa": 70
+        "programa": 70,
+        "tipo": 1
     },
     {
         "pergunta": "No sertão uma mulher chamada cida tinha 3 filhos, sendo um deles muuuutio grande, ele era tão diferente que foram lá fazer um filme dele, qual o nome do filme?",
         "resposta_correta": "É o alto da comade cida",
-        "programa": 70
+        "programa": 70,
+        "tipo": 1
     },
     {
         "pergunta": "Quem da galera do Porta dos Fundos, é sensível ao toque?",
         "resposta_correta": "É o Antonio tablet",
-        "programa": 70
+        "programa": 70,
+        "tipo": 1
     },
     {
         "pergunta": "Porque o decorador da Dora Figueiredo chorou quando viu os vídeos dela?",
         "resposta_correta": "Porque ele fez decoração",
-        "programa": 69
+        "programa": 69,
+        "tipo": 1
     },
     {
         "pergunta": "Sabe porque é fácil clonar uma árvore?",
         "resposta_correta": "Porque ele tem muita célula tronco",
-        "programa": 69
+        "programa": 69,
+        "tipo": 1
     },
     {
         "pergunta": "Quem é a cantora brasileira favorita a ganhar o próximo No Limite?",
         "resposta_correta": "É a Vanessa Damata",
-        "programa": 69
+        "programa": 69,
+        "tipo": 1
     },
     {
         "pergunta": "Lançaram um áudio drama de um detetive cego que só enxergava uma coisa, fadas verdes, qual o nome do áudio drama?",
         "resposta_correta": "É o França eo Absinto",
-        "programa": 68
+        "programa": 68,
+        "tipo": 1
     },
     {
         "pergunta": "Comprei uma faca daquelas que abre e fecha, e toda vez que eu abro toca axé, porque?",
         "resposta_correta": "Porque ele é um Canivete Sangalo",
-        "programa": 68
+        "programa": 68,
+        "tipo": 1
     },
     {
         "pergunta": "Tirando férias em Goiás, achei um livro muito famoso sobre um membro da realeza que cultivava frutinhas e abriu uma lojinha no palácio para as pessoas comerem suas frutinhas, o nome do livro é o mesmo da lojinha, qual o nome do livro?",
         "resposta_correta": "É o pequi no príncipe",
-        "programa": 68
+        "programa": 68,
+        "tipo": 1
     },
     {
         "pergunta": "Qual profissão é a mais adequada para a doação de sangue?",
         "resposta_correta": "É o advogado, porque ele tem OAB",
-        "programa": 68
+        "programa": 68,
+        "tipo": 1
     },
     {
         "pergunta": "Qual o desenho favorito de quem faz dieta low carb?",
         "resposta_correta": "Quem faz low carb gosta muito de a Vaca e o Frango",
-        "programa": 67
+        "programa": 67,
+        "tipo": 1
     },
     {
         "pergunta": "Em alguns momentos no Porta dos Fundos, eles tão com o bule cheio e a xícara vazia, sabe porquê?",
         "resposta_correta": "Porque eles estão esperando o Fábio por chá",
-        "programa": 67
+        "programa": 67,
+        "tipo": 1
     },
     {
         "pergunta": "Se um mercado é uma lojinha que se compra algumas coisas e o supermercado uma lojona onde se compra de tudo, como se chama o mercado onde o produto é o futuro?",
         "resposta_correta": "É o Walter Mercado",
-        "programa": 67
+        "programa": 67,
+        "tipo": 1
     },
     {
         "pergunta": "Porque o Mike Tyson não gosta de usar celular?",
         "resposta_correta": "Porque ele prefere o orelhão",
-        "programa": 67
+        "programa": 67,
+        "tipo": 1
     },
     {
         "pergunta": "Uma moça veio de uma família de muito dinheiro e foi na feira pela primeira vez, experimentou uma fruta que nunca viu antes e que fez ela sair de lá dançando muito, que fruta é essa?",
         "resposta_correta": "É a mexe rica",
-        "programa": 66
+        "programa": 66,
+        "tipo": 1
     },
     {
         "pergunta": "Um lobisomem foi comer uma banana e passou mal, porque?",
         "resposta_correta": "Porque era uma banana prata",
-        "programa": 66
+        "programa": 66,
+        "tipo": 1
     },
     {
         "pergunta": "Em qual loja que vende calças com quatro pernas?",
         "resposta_correta": "É na loja de roupa de cama",
-        "programa": 66
+        "programa": 66,
+        "tipo": 1
     },
     {
         "pergunta": "Porque o caminhoneiro gosta de ouvir sempre a mesma música?",
         "resposta_correta": "Porque ele quando ele liga o rádio ele coloca no rebite (repeat)",
-        "programa": 66
+        "programa": 66,
+        "tipo": 1
     },
     {
         "pergunta": "Na última vez que fui doar sangue eu encontrei a banda Fresno, sabe porque eles estavam lá?",
         "resposta_correta": "Porque eu estava no emocentro",
-        "programa": 65
+        "programa": 65,
+        "tipo": 1
     },
     {
         "pergunta": "Eu estava vendo um filme e a Whoopi Goldberg apareceu, ela comprava uma bala de menta e colocava na boca, que filme é esse?",
         "resposta_correta": "Era o Mudança de Hálito",
-        "programa": 65
+        "programa": 65,
+        "tipo": 1
     },
     {
         "pergunta": "Fazendo entrevistas de emprego, fui em uma empresa que o prédio era redondo e fui atendido por um palhaço, que empresa era essa?",
         "resposta_correta": "Era a CIRCOnferencia",
-        "programa": 65
+        "programa": 65,
+        "tipo": 1
     },
     {
         "pergunta": "Dirigindo na estrada de São Paulo, me passa um carro a mil por hora e o motorista saiu gritando \"AUU\", porque?",
         "resposta_correta": "Porque no carro era o Frank Aguiar",
-        "programa": 65
+        "programa": 65,
+        "tipo": 1
     },
     {
         "pergunta": "Qual a freira viciada em jogo de azar?",
         "resposta_correta": "É a católica apostólica",
-        "programa": 64
+        "programa": 64,
+        "tipo": 1
     },
     {
         "pergunta": "Qual a bala favorita da banda Soweto?",
         "resposta_correta": "É a 7 Belo",
-        "programa": 64
+        "programa": 64,
+        "tipo": 1
     },
     {
         "pergunta": "Tinha um fazendeiro gringo muito fã de pagode, ele encontrou um filhote de alce e criou até ficar adulto, ele encontrou outros alces e virou um cuidador de alces, qual o nome do primeiro alce?",
         "resposta_correta": "Era o Alce one",
-        "programa": 64
+        "programa": 64,
+        "tipo": 1
     },
     {
         "pergunta": "Qual ator da globo é uma versão do Louro José do mundo invertido que veio para na nossa dimensão pra fazer novela?",
         "resposta_correta": "É o José Loureto",
-        "programa": 64
+        "programa": 64,
+        "tipo": 1
     },
     {
         "pergunta": "🤖Porque o Saci atravessou a estrada?",
         "resposta_correta": "🤖Pra mostrar que não era só do mato que ele saia",
         "programa": 63,
-        "expecial": true
+        "tipo": 3
     },
     {
         "pergunta": "🤖O que o carioca disse pro paulista?",
         "resposta_correta": "🤖Sou mais praia que sua pizza",
         "programa": 63,
-        "expecial": true
+        "tipo": 3
     },
     {
         "pergunta": "Qual apresentador da TV brasileira deixava a produção apavorada com medo dele sair gritando quebrando tudo?",
         "resposta_correta": "O Marcelo Taz mania",
-        "programa": 63
+        "programa": 63,
+        "tipo": 1
     },
     {
         "pergunta": "Plantei uma árvore e ela deu um fruto meio esquisito, uma mistura de um réptil cascudo e um mamífero chifrudo, que fruta é essa?",
         "resposta_correta": "Era uma Jabuticabra",
-        "programa": 63
+        "programa": 63,
+        "tipo": 1
     },
     {
         "pergunta": "Qual o felino mais fofoqueiro do reino animal?",
         "resposta_correta": "É o Leão Lobo",
-        "programa": 63
+        "programa": 63,
+        "tipo": 1
     },
     {
         "pergunta": "Porque o relacionamento do casal de tijolos entrou em crise?",
         "resposta_correta": "Porque havia um ciumento entre eles",
-        "programa": 62
+        "programa": 62,
+        "tipo": 1
     },
     {
         "pergunta": "O He-Man está começando sua carreira de comediante, qual vai ser o nome artístico dele?",
         "resposta_correta": "Ele vai ser conhecido como o Princi Piadam",
-        "programa": 62
+        "programa": 62,
+        "tipo": 1
     },
     {
         "pergunta": "O Marcos Mion tinha um problema no escritório, ele não conseguiu prender um papel com o outro, porque?",
         "resposta_correta": "É porque ele tinha os Piores Clipes do Mundo",
-        "programa": 62
+        "programa": 62,
+        "tipo": 1
     },
     {
         "pergunta": "Qual o felino mais velho do mundo?",
         "resposta_correta": "É o tigre de bengala",
-        "programa": 61
+        "programa": 61,
+        "tipo": 1
     },
     {
         "pergunta": "Qual raça de cachorro que quando vai passear adora de ficar parado na frente da lotérica, do banco e do INSS?",
         "resposta_correta": "É o fila brasileiro",
-        "programa": 61
+        "programa": 61,
+        "tipo": 1
     },
     {
         "pergunta": "Qual bolachinha/biscoitinho dirigi um programa de TV?",
         "resposta_correta": "É o Boninho",
-        "programa": 61
+        "programa": 61,
+        "tipo": 1
     },
     {
         "pergunta": "Qual o predador natural do macaco prego?",
         "resposta_correta": "O tubarão martelo",
-        "programa": 61
+        "programa": 61,
+        "tipo": 1
     },
     {
         "pergunta": "Qual galinha que cacareja falando \"pospuei, popopospuei pospuei\"",
         "resposta_correta": "É a galinha da angola",
-        "programa": 61
+        "programa": 61,
+        "tipo": 1
     },
     {
         "pergunta": "Qual o nome do pão que você come no natal e vem com um pelo dentro?",
         "resposta_correta": "É o Panetoni Ramos",
-        "programa": 60
+        "programa": 60,
+        "tipo": 1
     },
     {
         "pergunta": "Qual é o dinossauro bully que se achava o engraçadão do colégio, fazia piadinhas e zuava os outros do colégio?",
         "resposta_correta": "É o tirando sarro Rex",
-        "programa": 60
+        "programa": 60,
+        "tipo": 1
     },
     {
         "pergunta": "Esse Ep. não teve vidanigma, muita pauta",
         "resposta_correta": "Nada de ponto",
-        "programa": 59
+        "programa": 59,
+        "tipo": 1
     },
     {
         "pergunta": "Porque que a economia da Argentina tem tudo pra ficar forte?",
         "resposta_correta": "Porque eles estão movimentando pesos",
-        "programa": 58
+        "programa": 58,
+        "tipo": 1
     },
     {
         "pergunta": "Qual cantora tem dificuldade de escolher entre as 3 primeiras letras do alfabeto?",
         "resposta_correta": "A B ou C",
-        "programa": 58
+        "programa": 58,
+        "tipo": 1
     },
     {
         "pergunta": "Qual monarca vivia trancado no banheiro?",
         "resposta_correta": "É a rainha Eliza Bathroom",
-        "programa": 58
+        "programa": 58,
+        "tipo": 1
     },
     {
         "pergunta": "Qual o melhor dia da semana pra jogar basquete?",
         "resposta_correta": "Sexta",
-        "programa": 57
+        "programa": 57,
+        "tipo": 1
     },
     {
         "pergunta": "Porque os atores do filme da Barbie, vivem como medo de largar os pertences em qualquer lugar?",
         "resposta_correta": "Eles têm medo que a Margot Robbie",
-        "programa": 57
+        "programa": 57,
+        "tipo": 1
     },
     {
         "pergunta": "Você comprou uma rifa e ganhou de presente um cantor brasileiro só pra você, qual o cantor?",
         "resposta_correta": "Depois de ganhar agora é o seu Jorge",
-        "programa": 57
+        "programa": 57,
+        "tipo": 1
     },
     {
         "pergunta": "Porque que a vaca foi pro crossfit?",
         "resposta_correta": "Pra ficar malhada",
-        "programa": 57
+        "programa": 57,
+        "tipo": 1
     },
     {
         "pergunta": "Cavalo gosta de café fraco ou forte e porquê?",
         "resposta_correta": "Gosta de café fraco, porque pocopó pocopó pocopó...",
-        "programa": 57
+        "programa": 57,
+        "tipo": 1
     },
     {
         "pergunta": "Fui lamber uma orelha e ela estava muita azeda, sabe porquê?",
         "resposta_correta": "Porque era a orelha do Lima Duarte",
-        "programa": 56
+        "programa": 56,
+        "tipo": 1
     },
     {
         "pergunta": "Porque Napoleão adorava uma baladinha?",
         "resposta_correta": "Porque ele era bom na party",
-        "programa": 56
+        "programa": 56,
+        "tipo": 1
     },
     {
         "pergunta": "Qual cantora internacional abriu um açougue?",
         "resposta_correta": "A Taylor Swift",
-        "programa": 56
+        "programa": 56,
+        "tipo": 1
     },
     {
         "pergunta": "O que um lagarto disse pro outro quando descobriu que estava sendo traído?",
         "resposta_correta": "Me iguana que eu gosto",
-        "programa": 56
+        "programa": 56,
+        "tipo": 1
     },
     {
         "pergunta": "Quando faço uma compra sempre passo do debits, sabe quem faz diferente?",
         "resposta_correta": "O Linin Credits",
-        "programa": 56
+        "programa": 56,
+        "tipo": 1
     },
     {
         "pergunta": "Porque o petróleo foi ao psicólogo?",
         "resposta_correta": "Porque ele estava no fundo do poço",
-        "programa": 55
+        "programa": 55,
+        "tipo": 1
     },
     {
         "pergunta": "Quem é que sempre precisa de uma mãozinha pra trabalhar?",
         "resposta_correta": "A manicure",
-        "programa": 55
+        "programa": 55,
+        "tipo": 1
     },
     {
         "pergunta": "Qual cavaleiro que deveria estar na távola redonda de rei Arthur mas não estava?",
         "resposta_correta": "É o Sir Curferencia",
-        "programa": 55
+        "programa": 55,
+        "tipo": 1
     },
     {
         "pergunta": "Porque que o homem invisível mudou de carreira profissional?",
         "resposta_correta": "Porque ele não se via fazendo o que ele fazia antes",
-        "programa": 55
+        "programa": 55,
+        "tipo": 1
     },
     {
         "pergunta": "Qual a problemática de um homem se casar com a irmã da sua própria viúva?",
         "resposta_correta": "Porque ele está morto",
-        "programa": 55
+        "programa": 55,
+        "tipo": 1
     },
     {
         "pergunta": "O que vai muito bem atras do micro-ondas 5h30 da manhã?",
         "resposta_correta": "Uma toalha cagada",
         "programa": 55,
-        "expecial": true
+        "tipo": 3
     },
     {
         "pergunta": "O açougueiro vende carne, o sorveteiro vende sorvete, o padeiro vende pão e você vende o que?",
         "resposta_correta": "Vende Zap",
         "programa": 54,
-        "cantada": true
+        "tipo": 5
     },
     {
         "pergunta": "Me chama de lente...",
         "resposta_correta": "Porque vamos manter contato",
         "programa": 54,
-        "cantada": true
+        "tipo": 5
     },
     {
         "pergunta": "Você vende brigadeiro? Não?",
         "resposta_correta": "Então aceito um beijinho",
         "programa": 54,
-        "cantada": true
+        "tipo": 5
     },
     {
         "pergunta": "Você trabalha na receita federal?",
         "resposta_correta": "Porque hoje é a data limite e eu preciso me declarar pra você",
         "programa": 54,
-        "cantada": true
+        "tipo": 5
     },
     {
         "pergunta": "Porque um prédio falou pra outro prédio que tinha que virar modelo?",
         "resposta_correta": "Porque ele tinha um andar maravilhoso",
-        "programa": 53
+        "programa": 53,
+        "tipo": 1
     },
     {
         "pergunta": "Onde moram os minions do Meu Malvado Favorito?",
         "resposta_correta": "Em condominions",
-        "programa": 53
+        "programa": 53,
+        "tipo": 1
     },
     {
         "pergunta": "O que é uma idosa sem relógio?",
         "resposta_correta": "É uma sem hora",
-        "programa": 53
+        "programa": 53,
+        "tipo": 1
     },
     {
         "pergunta": "Sabe porque os bombeiros não gostam de andar?",
         "resposta_correta": "Porque eles socorrem",
-        "programa": 53
+        "programa": 53,
+        "tipo": 1
     },
     {
         "pergunta": "Qual o jeito mais contável para o batman, o homem morcego, dormir?",
         "resposta_correta": "De Bruce",
-        "programa": 52
+        "programa": 52,
+        "tipo": 1
     },
     {
         "pergunta": "Qual peça de computador é a mais anfíbia?",
         "resposta_correta": "A memória RAM",
-        "programa": 52
+        "programa": 52,
+        "tipo": 1
     },
     {
         "pergunta": "Qual o nome do jogo que as pessoas não sabem falar não?",
         "resposta_correta": "The sims",
-        "programa": 52
+        "programa": 52,
+        "tipo": 1
     },
     {
         "pergunta": "Sabe porque no Mortal Kombat os personagens nunca sextaram?",
         "resposta_correta": "Porque eles já Quintaro",
-        "programa": 52
+        "programa": 52,
+        "tipo": 1
     },
     {
         "pergunta": "Porque uma girafa bebe mais agua em março do que fevereiro?",
         "resposta_correta": "Porque março tem mais dias",
-        "programa": 52
+        "programa": 52,
+        "tipo": 1
     },
     {
         "pergunta": "Como chama o animal que anda com a pata na cabeça?",
         "resposta_correta": "É um pato apaixonado",
-        "programa": 51
+        "programa": 51,
+        "tipo": 1
     },
     {
         "pergunta": "Porque a caminhoneta da igreja bateu?",
         "resposta_correta": "Porque a caminhoneta estava sem frei",
-        "programa": 51
+        "programa": 51,
+        "tipo": 1
     },
     {
         "pergunta": "Qual a semelhança entre o cachorro e o ouro?",
         "resposta_correta": "Os dois que lates",
-        "programa": 51
+        "programa": 51,
+        "tipo": 1
     },
     {
         "pergunta": "Qual o estado brasileiro que mais gosta de bagunça?",
         "resposta_correta": "O AmaZonas",
-        "programa": 51
+        "programa": 51,
+        "tipo": 1
     },
     {
         "pergunta": "Sabe quando da azar ver um gato preto?",
         "resposta_correta": "Quando você é um rato",
-        "programa": 51
+        "programa": 51,
+        "tipo": 1
     }
 ]

@@ -13,28 +13,30 @@ const to = (i: number, max: number) => ({
   rot: -10 + Math.random() * 10,
   delay: i * 50,
 })
+const num_cartas = 10 // Numero de cartas para jogar
 const from = (_i: number) => ({ x: 0, rot: 0, scale: 1.5, y: -1000 })
 // This is being used down there in the view, it interpolates rotation and scale into a css transform
 const trans = (r: number, s: number) =>
   `perspective(1500px) rotateX(30deg) rotateY(${r / 10}deg) rotateZ(${r}deg) scale(${s})`
 
 // Função para embaralhar as perguntas
-function embaralharPerguntas(data) {
-  for (let i = data.length - 1; i > 0; i--) {
+function embaralharPerguntas() {
+  let dados = data
+  for (let i = dados.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
-    const temp = data[i];
-    data[i] = data[j];
-    data[j] = temp;
+    const temp = dados[i];
+    dados[i] = dados[j];
+    dados[j] = temp;
   }
-  // Return the first 100 items from the shuffled array
-  return data.slice(0, 100);
+  // Return the first num_cartas items from the shuffled array
+  return dados.slice(0, num_cartas);
 }
 
 function Deck({perguntas}) {
   const [cards, setCard] = useState(perguntas)
   const [gone] = useState(() => new Set()) // The set flags all the cards that are flicked out
-  const [props, api] = useSprings(cards.length, i => ({
-    ...to(i, cards.length),
+  const [props, api] = useSprings(num_cartas, i => ({
+    ...to(i, num_cartas),
     from: from(i),
   })) // Create a bunch of springs using the helpers above
   const [mostrarResultado, setMostrarResultado] = useState(false)
@@ -58,9 +60,9 @@ function Deck({perguntas}) {
         config: { friction: 50, tension: down ? 800 : isGone ? 200 : 500 },
       }
     })
-    if (!down && gone.size === cards.length)
+    if (!down && gone.size === num_cartas)
       setTimeout(() => {
-        setCard(embaralharPerguntas(cards))// Quando as cartas são todas jogadas, elas serão reembaralhadas depois de voltar ao monte
+        setCard(embaralharPerguntas())// Quando as cartas são todas jogadas, elas serão reembaralhadas depois de voltar ao monte
         gone.clear()
         api.start(i => to(i))
       }, 600)
@@ -74,7 +76,7 @@ function Deck({perguntas}) {
       {props.map(({ x, y, rot, scale }, i) => (
         <animated.div className={styles.deck} key={i} style={{ x, y }} onClick={() => handleResposta()}>
           {/* This is the card itself, we're binding our gesture to it (and inject its index so we know which is which) */}
-          <animated.div {...bind(i)} className={cards[i].marijokes ? styles.marijoke : cards[i].expecial ? styles.expecial : cards[i].charajoes ? styles.charajoes : cards[i].cantada ? styles.cantada : ""} style={{transform: interpolate([rot, scale], trans)}}>
+          <animated.div {...bind(i)} className={cards[i].tipo===2 ? styles.marijoke : cards[i].tipo===3 ? styles.expecial : cards[i].tipo===4 ? styles.charajoes : cards[i].tipo===5 ? styles.cantada : ""} style={{transform: interpolate([rot, scale], trans)}}>
             <Pergunta pergunta={cards[i]} mostrarResultado={mostrarResultado}/>
           </animated.div>
         </animated.div>
@@ -84,7 +86,7 @@ function Deck({perguntas}) {
 }
 
 export default function App() {
-  const perguntas = embaralharPerguntas(data)
+  const perguntas = embaralharPerguntas()
   return (
     <div className={styles.container}>
       <Deck perguntas={perguntas}/>
