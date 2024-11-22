@@ -1,5 +1,21 @@
 [
     {
+        "pergunta": "Joãzinho tava com muito problema para dormir, foi no médico e disse pra ele \"Doutor, 5 dias que estou sonhando com formigas jogando futebol\" ai o médico deu um remédio e disse \"Toma isso que hoje você vai dormir bem\" e ele respondeu \"Hoje???Tá maluco, hoje é a final!!!\"",
+        "resposta_correta": "",
+        "programa": 128,
+        "marijokes": true
+    },
+    {
+        "pergunta": "Vi que depois do atentado em Brasília, encontraram uma nova bomba la no senado, vocês sabem qual era a bomba?",
+        "resposta_correta": "Era bombinha do pau do Kajuru",
+        "programa": 128
+    },
+    {
+        "pergunta": "Sabe porque quando você se alimenta mal, você corre o risco de pegar uma doença da ruas?",
+        "resposta_correta": "Porque pode dar uma gaStreet",
+        "programa": 128
+    },
+    {
         "pergunta": "Um funcionário entre na sala do chefe e diz \"Chefe, você vai ter que me dar um aumento, já tem 3 companhias atrás de mim!\" e o chefe pergunta \"Quais empresas?\" \"A de agua, a de gás e a de luz\"",
         "resposta_correta": "",
         "programa": 127,
