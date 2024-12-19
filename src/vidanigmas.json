@@ -1,8 +1,25 @@
 [
     {
+        "pergunta": "Ep. patrocinado Sonic 3",
+        "resposta_correta": "\"Ai meu anelzinhuu\"",
+        "programa": 132,
+        "expecial": true
+    },
+    {
         "pergunta": "Qual a bebida favorita de um membro gaúcho da academia brasileira de letras?",
         "resposta_correta": "É o leTCHE",
         "programa": 131
+    },
+    {
+        "pergunta": "Era uma vez um espermatozoide manco, vivia triste e isolado no fundo do saco. Certo dia, os espermatozoides mais novinhos, decidiram perguntar \"Ei tio, porque vc ta sempre tão triste?\" \"Ai, é que eu sou manco, e nunca consegui realizar o sonho de todo espermatozoide de alcançar o ôvulo, toda vez que vocês saem as portas se fecham e eu volto pra ca\", tocados pela historia, os mais novos se juntaram e bolaram um plano \"Na proxima vez que o alarme tocar, a gente vai te carregar e te jogar pra frente, ai é so você nadar sozinho e realizar o seu sonho\" ele ficou emocionado. No dia seguinte, o alarme tocou e os mais jovens foram correndo carregar o velho, e ele todo emocionado, chegando na porta ele entrou em pânico \"Galera para para para, é so uma punhetaaaaaaaaa....\"",
+        "resposta_correta": "",
+        "programa": 130,
+        "marijokes": true
+    },
+    {
+        "pergunta": "Qual peça da tabua de frios, gosta de festa de aniversário e de cantar parabens?",
+        "resposta_correta": "É o presunto de parmas",
+        "programa": 130
     },
     {
         "pergunta": "Um casal tava abraçadinho na cama depois de um sexo gostoso a moça vira pro namoradinho e diz \"A minha primeira vez foi com 18\" \"Nossa, que safada, a minha primeira vez foi só com uma\"",
