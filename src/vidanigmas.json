@@ -1,5 +1,20 @@
 [
     {
+        "pergunta": "Qual animal arromba a porta com o pé?",
+        "resposta_correta": "A cabra",
+        "programa": 133
+    },
+    {
+        "pergunta": "Onde você leva as luvas quando vai viajar?",
+        "resposta_correta": "Na mala de mão",
+        "programa": 133
+    },
+    {
+        "pergunta": "Porque a anta não aceitou o papel principal de mocinha na peça de teatro dos animais?",
+        "resposta_correta": "Porque ela queria ser a antagonista",
+        "programa": 133
+    },
+    {
         "pergunta": "Ep. patrocinado Sonic 3",
         "resposta_correta": "\"Ai meu anelzinhuu\"",
         "programa": 132,
