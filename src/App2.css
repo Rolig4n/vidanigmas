@@ -8,7 +8,7 @@ body {
   font-family: system-ui;
   margin: 0;
   color: whitesmoke;
-  background-image: url("../asset/background.jpg");
+  background-image: url("./asset/background.jpg");
   background-size: cover; /* Cover the entire container */
   background-position: top center; /* Center the image */
 }
@@ -38,6 +38,16 @@ h2, h1, p{
 
 h1 {
   font-size: 1.5em;
+}
+
+a {
+  font-weight: 900;
+  text-decoration: none;
+  color: transparent;
+  text-shadow: 4px 4px 7px rgb(223, 63, 61, 0.6), 0px 0px 0px #1e1e1e82;
+}
+a:hover, a:focus{
+  text-shadow: 4px 4px 7px rgba(252, 63, 61, 0.9), 0px 0px 0px #1e1e1e82;
 }
 
 @media only screen and (max-width: 600px) {
