@@ -22,9 +22,8 @@ body {
 .App {
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: flex-start;
   height: 100vh;
-  padding: 20px;
 }
 
 h2, h1, p{
@@ -49,6 +48,32 @@ a {
 a:hover, a:focus{
   text-shadow: 4px 4px 7px rgba(252, 63, 61, 0.9), 0px 0px 0px #1e1e1e82;
 }
+
+.jogar-button{
+  margin: 1% 1% 0;
+  background-color: #df3f3d;
+  box-shadow: 0px 5px 20px 5px #1e1e1e82;
+  border: none;
+  border-radius: 5px;
+  height: 40px;
+  cursor: pointer;
+  z-index: 5;
+  outline: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0px 10px;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  height: 100px;
+  justify-content: center;
+}
+
+svg {fill: url(#gradiente)};
+svg:hover, svg:focus {fill: url(#gradienteFocus)};
 
 @media only screen and (max-width: 600px) {
   h2, p{

@@ -26,23 +26,6 @@ const useAudio = url => {
   return [playing, toggle];
 };
 
-const Button = styled.button`
-    margin: 1% 1% 0 0;
-    background-color: #df3f3d;
-    box-shadow: 0px 5px 20px 5px #1e1e1e82;
-    border: none;
-    border-radius: 5px;
-    height: 40px;
-    width: 40px;
-    cursor: pointer;
-    z-index: 5;
-    outline: none;
-    align-items: center;
-    justify-content: center;
-    svg {fill: url(#gradiente)};
-    svg:hover, svg:focus {fill: url(#gradienteFocus)};
-`;
-
 const Player = ({ url }) => {
   const play = <Play/>
   const pause = <Pause/>
@@ -60,7 +43,7 @@ const Player = ({ url }) => {
             <stop offset="100%" stop-color="rgba(252, 63, 61, 0.9)" />
         </linearGradient>
     </svg>
-    <Button onClick={toggle}>{playing ? pause : play}</Button>
+    <a className="jogar-button" style={{width: "40px"}} onClick={toggle}>{playing ? pause : play}</a>
     </>
   );
 };

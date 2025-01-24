@@ -1,31 +1,24 @@
 import * as React from "react";
 import * as ReactDOM from "react-dom/client";
 import {
-  createBrowserRouter,
-  RouterProvider,
+  HashRouter, Route, Routes, Link
 } from "react-router-dom";
 import "./index.css";
 import './App2.css'
 import Root from "./routes/root";
 import Jogo from "./routes/jogo";
 
-const router = createBrowserRouter([
-  {
-    path: "/",
-    element: <Root/>,
-  },
-  {
-    path: "/vidanigmas",
-    element: <Root/>,
-  },
-  {
-    path: "/jogo",
-    element: <Jogo/>,
-  },
-]);
-
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <RouterProvider router={router} />
+    <HashRouter>
+      <nav>
+        <Link className="jogar-button" to="/jogo">JOGAR</Link>
+        <Link className="jogar-button" to="/">HOME</Link>
+      </nav>
+      <Routes>
+        <Route path="/" element={<Root />} />
+        <Route path="/jogo" element={<Jogo />} />
+      </Routes>
+    </HashRouter>
   </React.StrictMode>
 );
