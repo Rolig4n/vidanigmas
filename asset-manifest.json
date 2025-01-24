@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/vidanigmas/static/css/main.d17d4c51.css",
-    "main.js": "/vidanigmas/static/js/main.93aac87d.js",
-    "static/media/background.jpg": "/vidanigmas/static/media/background.95633edfa162c9115d2a.jpg",
-    "static/media/vidanigmas.mp3": "/vidanigmas/static/media/vidanigmas.7e2b805d13d44976f430.mp3",
-    "index.html": "/vidanigmas/index.html",
-    "static/media/pause-solid.svg": "/vidanigmas/static/media/pause-solid.a4ac976dfb0b3f49db5e9ed727d40d57.svg",
-    "static/media/play-solid.svg": "/vidanigmas/static/media/play-solid.402440c62d2ef5cf7fcbc40433295518.svg",
-    "main.d17d4c51.css.map": "/vidanigmas/static/css/main.d17d4c51.css.map",
-    "main.93aac87d.js.map": "/vidanigmas/static/js/main.93aac87d.js.map"
+    "main.css": "/static/css/main.64692a55.css",
+    "main.js": "/static/js/main.7a976fa0.js",
+    "static/media/background.jpg": "/static/media/background.95633edfa162c9115d2a.jpg",
+    "static/media/vidanigmas.mp3": "/static/media/vidanigmas.7e2b805d13d44976f430.mp3",
+    "index.html": "/index.html",
+    "static/media/pause-solid.svg": "/static/media/pause-solid.a4ac976dfb0b3f49db5e9ed727d40d57.svg",
+    "static/media/play-solid.svg": "/static/media/play-solid.402440c62d2ef5cf7fcbc40433295518.svg",
+    "main.64692a55.css.map": "/static/css/main.64692a55.css.map",
+    "main.7a976fa0.js.map": "/static/js/main.7a976fa0.js.map"
   },
   "entrypoints": [
-    "static/css/main.d17d4c51.css",
-    "static/js/main.93aac87d.js"
+    "static/css/main.64692a55.css",
+    "static/js/main.7a976fa0.js"
   ]
 }
