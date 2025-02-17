@@ -1,5 +1,16 @@
 [
     {
+        "pergunta": "Qual o livro mais triste de todos?",
+        "resposta_correta": "O de matemática, porque ele tem muitos problemas",
+        "programa": 138,
+        "charajoes": true
+    },
+    {
+        "pergunta": "Qual o cômodo mais atletico da casa?",
+        "resposta_correta": "É o corredor 🏃‍♂️",
+        "programa": 138
+    },
+    {
         "pergunta": "Dois agentes do IBGE entraram em uma casa para entrevistar o proprietário, \"Qual seu nome senhor?\" \"Adão\" \"eo da sua esposa?\" \"Eva\" \"Uau, por acaso aqui tambem mora a serpente?\" \"Só um minutinho que vou chamar minha sogra\"",
         "resposta_correta": "🙍‍♂️🙍‍♀️🐍",
         "programa": 137,
