@@ -1,5 +1,21 @@
 [
     {
+        "pergunta": "Como que o ginecologista surdo trabalha?",
+        "resposta_correta": "Lendo lábios",
+        "programa": 139,
+        "expecial": true
+    },
+    {
+        "pergunta": "Porque o cara que inventou a varanda ficou rico?",
+        "resposta_correta": "Porque foi uma grande sacada",
+        "programa": 139
+    },
+    {
+        "pergunta": "Qual a comida favorita dos Ramones?",
+        "resposta_correta": "É a PUNKqueca",
+        "programa": 139
+    },
+    {
         "pergunta": "Qual o livro mais triste de todos?",
         "resposta_correta": "O de matemática, porque ele tem muitos problemas",
         "programa": 138,
