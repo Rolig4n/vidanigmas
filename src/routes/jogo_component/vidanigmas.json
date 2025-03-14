@@ -1,5 +1,10 @@
 [
     {
+        "pergunta": "Qual grande carro esportivo ao qual as pessoas costumam ter alergia?",
+        "resposta_correta": "É o camarão",
+        "programa": 142
+    },
+    {
         "pergunta": "Porque que no Egito antigo as pessoas tinha dificuldade de se envolver na construção civil?",
         "resposta_correta": "Porque era muito esquema de pirâmide",
         "programa": 141
