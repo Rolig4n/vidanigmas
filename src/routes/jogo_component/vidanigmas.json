@@ -1,5 +1,21 @@
 [
     {
+        "pergunta": "A professora pergunta pra classe, \"Alguem aqui se sente burro? quem se sente burro fica de pé\" e os alunos ficaram todos sentados, ea professora insisti \"Ninguem aqui se sente burro?\" Joãozinho então fica de pé \"Poxa Joãozinho você se sente burro?\" e ele responde \"Não professora, eu só não queria deixar a senhora sozinha em pé\"",
+        "resposta_correta": "",
+        "programa": 143,
+        "marijokes": true
+    },
+    {
+        "pergunta": "O Lumiere (Bela e a Fera) estava com problema para ouvir, sabe porque?",
+        "resposta_correta": "Porque ele tava com cera no ouvido",
+        "programa": 143
+    },
+    {
+        "pergunta": "Porque o confeiteiro não quer ser enterrado quando falecer?",
+        "resposta_correta": "Porque ele prefere que creme",
+        "programa": 143
+    },
+    {
         "pergunta": "Qual grande carro esportivo ao qual as pessoas costumam ter alergia?",
         "resposta_correta": "É o camarão",
         "programa": 142
