@@ -4,10 +4,28 @@
 
 ## Como jogar
 
-O jogo é simples, as cartas são embaralhadas no início e reembaralhadas no final de cada partida. Clicar na carta revela sua resposta, ganha quem acerta mais enigmas. As Maryjokes não posuem resposta, em sua maioria, e a ponto é dado para a pessoa que a tirou. Já as Cantadas, os pontos só valem para solteiros, para casados pontuar é necessário que o casal de um beijinho*. Caso o casal não consiga se beijar, o ponto não vale
+O jogo é simples, as cartas são embaralhadas no início e reembaralhadas no final de cada partida. Clicar na carta revela sua resposta, ganha quem acerta mais enigmas.
 
-*selinho, lingua, francês ou grêgo contam - beijo virtual não conta
+- Vidanigmas foram criados ou não pelo Vitinho.
+- Cantadas, os pontos só valem para solteiros.
+- Maryjokes não possuem resposta, em sua maioria, e a ponto é dado para a pessoa que a tirou.
+- Charajoes foram o início da jornada da Mary nas piadinhas, são exclusivas.
+- Expeciais são piadas que foram contadas por convidados ou feitas na hora pelos integrantes.
+
+| Tipo |Pontos
+|--|--| 
+|![Static Badge](https://img.shields.io/badge/Vidanigmas-df3f3d) |**1 ponto**
+|![Static Badge](https://img.shields.io/badge/Cantadas-dd4cad)   |**1 ponto**
+|![Static Badge](https://img.shields.io/badge/Maryjokes-df943d)  |**2 pontos**
+|![Static Badge](https://img.shields.io/badge/Charajoes-3f31fd)  |**5 pontos**
+|![Static Badge](https://img.shields.io/badge/Expeciais-fdb931)  |**10 pontos**
+
+### Créditos
+
+Na base da carta você tem a referencia do episódio que ela foi contada
 
 Art by [Vituru](https://x.com/vituru_)
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [React-spring](https://github.com/pmndrs/react-spring)
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and[React-spring](https://github.com/pmndrs/react-spring)
+
 Part of this project has code genereted with [GPT-3.5](https://chatgpt.com/)
